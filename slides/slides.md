@@ -81,9 +81,9 @@ given among men by which we must be saved.”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-There is salvation in no one else,<br>
-for there is no other name under heaven<br>
-given among men by which we must be saved.
+There is **salvation** in no one else,<br>
+for there is **no other name** under heaven<br>
+given among men by which we must be **saved**.
 
 [Acts 4:12 (ESV)](# "ref")
 
