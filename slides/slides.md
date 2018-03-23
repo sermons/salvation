@@ -61,4 +61,22 @@ given among men by which we must be saved.”
 1.
 
 ---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
