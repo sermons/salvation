@@ -37,7 +37,8 @@ and to all the people of Israel
 
 that by the name of Jesus Christ of Nazareth, <br>
 whom you crucified, <br>
-whom God raised from the dead — <br>
+whom God raised from the dead —
+
 by him this man is standing before you well.
 
 [Acts 4:10-11 (ESV) (p.3/4)](# "ref")
@@ -45,15 +46,15 @@ by him this man is standing before you well.
 ---
 [11](# "ref")
 This Jesus is the stone <br>
-that was rejected by you,<br>
-the builders, which has become the cornerstone.
+that was rejected by you, the builders, <br>
+which has become the cornerstone.
 
 [12](# "ref")
 And there is salvation in no one else,<br>
 for there is no other name under heaven<br>
 given among men by which we must be saved.”
 
-[Acts 4:11-12 (p.4/4)](# "ref")
+[Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -77,6 +78,14 @@ given among men by which we must be saved.”
 ---
 <!-- .slide: data-background="white" -->
 # Q3
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+There is salvation in no one else,<br>
+for there is no other name under heaven<br>
+given among men by which we must be saved.
+
+[Acts 4:12 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
