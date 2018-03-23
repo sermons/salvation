@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Salvation in No Other
+## Acts 4:7-12
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/salvation.svg)](https://travis-ci.org/sermons/salvation)
+[![Node deps](https://david-dm.org/sermons/salvation.svg)](https://david-dm.org/sermons/salvation)
+[![Node devDeps](https://david-dm.org/sermons/salvation/dev-status.svg)](https://david-dm.org/sermons/salvation?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
