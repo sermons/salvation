@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Salvation in No Other
+# Salvation in <br> No Other
 ## Acts 4:7-12
 
 ---
