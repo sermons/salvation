@@ -59,7 +59,7 @@ given among men by which we must be saved.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
-1. By What **Power**
+1. Let It Be **Known**
 1. The **Stone** Rejected
 1. **Salvation** in No Other
 
