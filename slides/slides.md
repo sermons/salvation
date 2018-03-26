@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Does my soul need **saving**?
 
 [###](#/outline "secret")
 
@@ -41,7 +41,7 @@ whom God raised from the dead —
 
 by him this man is standing before you well.
 
-[Acts 4:10-11 (ESV) (p.3/4)](# "ref")
+[Acts 4:10 (ESV) (p.3/4)](# "ref")
 
 ---
 [11](# "ref")
@@ -64,22 +64,55 @@ given among men by which we must be saved.”
 1. **Salvation** in No Other
 
 ---
+let it be **known** to all of you <br>
+and to all the people of Israel
+
+that by the name of **Jesus Christ** of Nazareth, <br>
+whom you **crucified**, <br>
+whom God **raised** from the dead —
+
+by him this man is standing before you well.
+
+[Acts 4:10 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
-# Q1
+# How will I make the **name** of Jesus be **known**?
 
 ---
 ## outline
 
 ---
+This Jesus is the **stone** <br>
+that was **rejected** by you, the builders, <br>
+which has become the **cornerstone**.
+
+[Acts 4:11 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# Is Jesus a rock of **stumbling** to me or the **cornerstone**?
 
 ---
 ## outline
 
 ---
+And there is **salvation** in no one else,<br>
+for there is **no other name** under heaven<br>
+given among men by which we must be **saved**.
+
+[Acts 4:12 (ESV)](# "ref")
+
+>>>
++ **given**: God did not leave us to sin/brokenness
+  + gave us way out
+  + plan of **salvation**
++ way truth life? 
++ Ez kicking in blood
+
+---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is there **hope** for humanity? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
