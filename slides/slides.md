@@ -76,6 +76,24 @@ by him this man is standing before you well.
 [Acts 4:10 (ESV)](# "ref")
 
 ---
+Men of Israel, why do you **wonder** at this, <br>
+or why do you **stare** at us,
+
+as though by our own **power** or **piety** <br>
+we have made him walk?
+
+[Acts 3:12 (ESV)](# "ref")
+
+---
+I have no **silver** and **gold**, <br>
+but what I **do** have I **give** to you.
+
+In the name of **Jesus Christ** of Nazareth, <br>
+rise up and **walk**!
+
+[Acts 3:6 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # How will I make the **name** of Jesus be **known**?
 
@@ -107,12 +125,25 @@ given among men by which we must be **saved**.
 + **given**: God did not leave us to sin/brokenness
   + gave us way out
   + plan of **salvation**
-+ way truth life? 
++ way truth life?
 + Ez kicking in blood
 
 ---
+**Repent** therefore, and **turn** back, <br>
+that your sins may be **blotted out**,
+
+[20](# "ref")
+that times of **refreshing** may come <br>
+from the presence of the Lord,
+
+and that he may send <br>
+the **Christ** appointed for you, Jesus
+
+[Acts 3:19-20 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
-# Is there **hope** for humanity? 
+# Is there **hope** for humanity?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
