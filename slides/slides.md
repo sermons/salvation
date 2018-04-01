@@ -305,8 +305,31 @@ which has become the **cornerstone**.
 + brought before **Sanhedrin**
   + **temple** jurisdiction
   + keepers of heritage, **community**
-+ to **build** a way for
++ entrusted to **build** a way for
   + **laity** to **worship** God
++ as **builders** searching for quality **granite**
++ yet **rejected** (deem as nothing, disdain)
+  + what they **most** needed
++ not just **religious** leaders
+  + **Pascal** (math, theology):
+
+---
+What else does this **craving**, <br>
+and this **helplessness**, proclaim ...?
+
+This he tries in vain to **fill** <br>
+with **everything** around him, though none can help,
+
+since this infinite **abyss** can be filled <br>
+only ... by **God himself**
+
+[Blaise Pascal, "Pensees"](# "ref")
+
+>>>
++ all search for **worship**
++ rescue from **contradiction**:
+  + **desire** to be holy, but
+  + **unable** to carry it out
 
 ---
 The stone that the builders **rejected** <br>
