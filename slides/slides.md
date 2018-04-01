@@ -376,11 +376,11 @@ and when it falls on anyone, it will **crush** him.
 + **deny**, oppose Son of God
   + do not **give** to God
   + what **belongs** to Him
-+ try to **break** it: 
++ try to **break** it:
   + it will break you
 + try to **avoid** / ignore it:
   + it will hunt you down
-+ e.g. JJ **tantrums**: only solution is 
++ e.g. JJ **tantrums**: only solution is
   + **pray**, submit to God
 + e.g. can't make **sun **not set
 + my choice: how to **respond**
@@ -425,12 +425,27 @@ as they were **destined** to do.
 <!-- .slide: data-background="white" -->
 # Is Jesus a rock of **stumbling** to me or the **cornerstone**?
 
+>>>
++ am I willing to **proclaim**
++ even if it causes **offense**,
+  + some to **reject**?
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the Story Be Known [(v10)](# "ref")
 1. The Stone Rejected [(v11)](# "ref")
 1. **Salvation in No Other** [(v12)](# "ref")
+
+>>>
++ proclaim **testimony**: word + deed
++ in search for **truth**, many will
+  + look to all other **stones**
+  + but **reject** the cornerstone
++ But God did not make salvation **hard** to find
+  + did not **leave** us struggling in sin
+  + but **revealed** the name of Jesus
++ Peter **closes** his defense to the Sanhedrin:
 
 ---
 And there is **salvation** in no one else,<br>
@@ -443,6 +458,11 @@ for there is **no other name** under heaven<br>
 + **given**: God did not leave us to sin/brokenness
   + gave us way out
   + plan of **salvation**
++ why **exclusive**: no other name?
+  + what does it mean to be **saved**?
++ to have **eternal life**?
+  + get **old** but never die? (horrible)
+  + harps + **halos**? (boring)
 
 ---
 And this is **eternal life**: <br>
@@ -452,7 +472,12 @@ and **Jesus Christ** whom you have sent.
 [John 17:3 (ESV)](# "ref")
 
 >>>
-+ why exclusive?
++ to **know** + be known: relationship
++ only one true **Creator** &rArr;
+  + only one **way** to be saved
++ God's **plan**: God **sent**
+  + Jesus: **Saviour**
+  + Christ: **Anointed** / commissioned
 
 ---
 For there is no **distinction** <br>
@@ -468,6 +493,11 @@ on the **name** of the Lord will be **saved**.”
 
 >>>
 + given to **all** people
++ Jew: **churched**, religious
++ Greek: no church bg: trust in
+  + science, **reason**, experience
++ what must **we** do?
+  + Peter to **crowds** in ch3:
 
 ---
 **Repent** therefore, and **turn** back, <br>
@@ -482,9 +512,27 @@ the **Christ** appointed for you, Jesus
 
 [Acts 3:19-20 (ESV)](# "ref")
 
+>>>
++ **repent**: turn, change direction
+  + what we **chase** after
+  + deem as **worthy**, successful
++ **refreshing**: make **new**
+
 ---
 <!-- .slide: data-background="white" -->
-# Is there **hope** for humanity?
+# Is there **hope** for our world?
+
+>>>
++ essential problem of **sin**:
+  + want to be **righteous**, good
+  + unable to **do** so
++ no hope for the **world**
+  + destined for **destruction**
++ but **each** of us has a choice
++ faced with the **truth** that
+  + one true Creator **sent** His Son
++ &rArr; take **offense** / disdain?
+  + or **repent** + **trust**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
