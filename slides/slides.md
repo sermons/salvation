@@ -299,7 +299,7 @@ This Jesus is the **stone** <br>
 that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
 
-[Acts 4:11 (ESV)](# "ref")
+[Acts 4:11 (quoting Psalm 118:22) (ESV)](# "ref")
 
 >>>
 + brought before **Sanhedrin**
