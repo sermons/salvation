@@ -269,7 +269,11 @@ your holy servant Jesus.
 + **speak** freely the gospel message
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Salvation in No Other [(Ac4)](# "ref")
+1. Let the Story Be Known [(v10)](# "ref")
+1. **The Stone Rejected** [(v11)](# "ref")
+1. Salvation in No Other [(v12)](# "ref")
 
 ---
 This Jesus is the **stone** <br>
@@ -346,7 +350,11 @@ as they were **destined** to do.
 # Is Jesus a rock of **stumbling** to me or the **cornerstone**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Salvation in No Other [(Ac4)](# "ref")
+1. Let the Story Be Known [(v10)](# "ref")
+1. The Stone Rejected [(v11)](# "ref")
+1. **Salvation in No Other** [(v12)](# "ref")
 
 ---
 And there is **salvation** in no one else,<br>
