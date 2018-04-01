@@ -330,18 +330,8 @@ only ... by **God himself**
 + rescue from **contradiction**:
   + **desire** to be holy, but
   + **unable** to carry it out
-
----
-The stone that the builders **rejected** <br>
-has become the **cornerstone**.
-
-[23](# "ref")
-This is the **LORD**'s doing; <br>
-it is **marvelous** in our eyes.
-
-[Psalm 118:22-23 (ESV)](# "ref")
-
->>>
++ attempt to **fill** the void
+  + but **refuse** to seek God
 
 ---
 Therefore I tell you, the kingdom of God  <br>
@@ -357,6 +347,27 @@ and when it falls on anyone, it will **crush** him.
 
 >>>
 + parable of vineyard + wicked tenants
++ Peter in Acts quotes **Psalm 118**:
+
+---
+The stone that the builders **rejected** <br>
+has become the **cornerstone**.
+
+[23](# "ref")
+This is the **LORD**'s doing; <br>
+it is **marvelous** in our eyes.
+
+[Psalm 118:22-23 (ESV)](# "ref")
+
+>>>
++ although Christ was **rejected**
+  + abhor, contempt
++ in God's **wisdom** / plan
+  + became the **head** of corner
+  + **capstone** of arch
+  + **preeminent** and **essential**
++ **marvelous**: surpassing, beyond us
+  + "not what I would have done"
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
@@ -366,7 +377,7 @@ a **cornerstone** chosen and precious,
 and whoever **believes** in him <br>
 will not be put to **shame**.
 
-[1 Peter 2:6 (Isaiah 28:16) (ESV) (p.1/2)](# "ref")
+[1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
 
 >>>
 + those who **believe** (chosen people):
@@ -386,7 +397,7 @@ and a rock of **offense**.”
 They stumble because they **disobey** the word, <br>
 as they were **destined** to do.
 
-[1 Peter 2:7,8 (ESV) (p.2/2)](# "ref")
+[1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
 
 >>>
 + **stumble**: strike against (in anger)
@@ -425,7 +436,7 @@ and **Jesus Christ** whom you have sent.
 [John 17:3 (ESV)](# "ref")
 
 >>>
-+ why exclusive? 
++ why exclusive?
 
 ---
 For there is no **distinction** <br>
