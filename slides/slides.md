@@ -105,31 +105,73 @@ given among men by which we must be saved.”
 
 >>>
 + give **credit** for healing/saving
+  + "story": not as in **fable**
   + lay out **who** Jesus is
 + expect **opposition** to God's truth
   + even **disdain**, not recog importance
 + **proclaim** only way to **wholeness**
++ first, what is **salvation**?
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
-let it be **known** to all of you <br>
-and to all the people of Israel
+if we are being examined today concerning <br>
+a **good deed** done to a crippled man, <br>
+by what means this man has been **healed**,
 
-that by the name of **Jesus Christ** of Nazareth, <br>
-whom you **crucified**, <br>
-whom God **raised** from the dead —
-
-by him this man is standing before you well.
-
-[Acts 4:10 (ESV)](# "ref")
+[Acts 4:9 (ESV)](# "ref")
 
 >>>
-+ person of Jesus still **fresh** in minds:
-  + **Nazareth**: upbringing in Galilee
-  + **crucified**: you deemed him liar
-  + **raised**: we are witnesses
-+ give **credit** for healing
-  + a **good deed** (v9)
++ **good deed**: act of mercy
+  + but more than a **miracle**
++ **healing**: same root as **saved**
+  + **rescue** from ext threat, harm
+  + **preserve**, sustain
+  + Heb: narrow confines &rArr; **open space**
++ not merely **physical** illness
+  + not to be **comfortable**
+  + not to pursue our **dreams**
++ **rescue**: from curse of **sin**:
+
+---
+And you were **dead** in the trespasses and **sins** <br>
+[2](# "ref")
+in which you once **walked**, <br>
+following the course of this **world**, ...
+
+[3](# "ref")
+[we] were by nature **children of wrath**, <br>
+like the rest of **mankind**.
+
+[Ephesians 2:1-3 (ESV)](# "ref")
+
+>>>
++ "I'm no **worse** than rest of world"
++ **behaviour** (walk, everyday life)
+  + follows **course** (age, aeon)
++ **all** of mankind corrupted by **sin**
+  + &rArr; under God's **wrath**
++ **this** is what Jesus **saves** us from!
++ our **healing** (saved from sin, new life)
+  + is a **testimony** to Christ's power
++ when **Peter**, John are before **Council**
+  + not just **two** of them:
+
+---
+But seeing the man who was **healed** <br>
+**standing** beside them, <br>
+they had **nothing** to say in opposition
+
+[Acts 4:14 (ESV)](# "ref")
+
+>>>
++ healed man **said** nothing
+  + just **standing**
++ in same way, our **testimony** is
+  + **rescued** from sin
+  + made **whole**
+  + **reconciled** w/God
++ **silence** the critics
+  + not by our **piety**
+  + but our **trust** in God:
 
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
@@ -140,6 +182,43 @@ as though by our own **power** or **piety** <br>
 we have made him walk?
 
 [Acts 3:12 (ESV)](# "ref")
+
+>>>
++ **rescued**: what **God** has done
+  + not what **I** have done
+  + not by **own** holiness
++ give **credit** to Christ:
+
+---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
+let it be **known** to all of you <br>
+and to all the people of Israel
+
+that by the name of **Jesus Christ** of Nazareth, <br>
+whom you **crucified**, <br>
+whom God **raised** from the dead —
+
+by him this man is **standing** before you well.
+
+[Acts 4:10 (ESV)](# "ref")
+
+>>>
++ I want you to **know**:
+  + declaration of **fact**
+  + tell the **truth** about Christ
++ person of Jesus still **fresh** in minds:
+  + **Nazareth**: upbringing in Galilee
+  + **crucified**: you deemed him liar
+  + **raised**: we are witnesses
++ in **our** culture:
+  + many **misconceptions** of Jesus
+  + fail to understand God's **holiness**
+  + &rArr; mistake **sin** for **judging** others
+  + &rArr; **grace** foreign concept
++ **tell** them **why** Jesus's death matters
+  + and why **resurrection**
+  + is worthy of **celebration**
++ not just for **pastors**, theologians:
 
 ---
 <!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
@@ -152,9 +231,12 @@ And they recognized that they had **been with Jesus**.
 [Acts 4:13 (ESV)](# "ref")
 
 >>>
-+ **boldness**: free speech
++ **boldness**: free speech, unafraid
 + **uneducated**: illiterate, w/o grammar
-+ **common**: idiot, non-expert
+  + **common**: idiot, non-expert
++ **been with**: known for our **trust** in Christ
++ after **released**, w/believers:
+  + pray for **boldness**:
 
 ---
 And now, Lord, look upon their **threats**  <br>
@@ -169,9 +251,22 @@ your holy servant Jesus.
 
 [Acts 4:29-30 (ESV)](# "ref")
 
+>>>
++ not just by **living** a holy life
++ also **speak** God's Word **freely**
++ God performs **healing** in our hearts
+  + **signs** to point to His power
+  + **wonders** that draw attention
+
 ---
 <!-- .slide: data-background="white" -->
 # How will I make the **name** of Jesus be **known**?
+
+>>>
++ **trust** Him in obedience
++ received **grace** &rArr; **show** grace
++ as He **heals**, pointing to His **power**
++ **speak** freely the gospel message
 
 ---
 ## outline
