@@ -17,6 +17,13 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 
 [Acts 1:8 (ESV)](# "ref")
 
+>>>
++ after death, **resurrection**, ascension
++ very start of NT **church**
++ HS + **Pentecost** kick off, 3k (ch2)
++ next **miracle**, 5k
++ spread in **Jerusalem**
+
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 + With the **Crippled** Man [(3:1-11)](# "ref")
@@ -29,6 +36,17 @@ and to the **end of the earth** [(ch12-28)](# "ref").
   + *"grant [us] all boldness ..."*
 
 [###](#/outline "secret")
+
+>>>
++ focus today not on **miracle** itself
++ but on Peter's **response** when
+  + asked to give **explanation**
++ to **crowds**: acted in **ignorance**
+  + &rArr; **repent** for forgiveness
+  + times of **refreshing**
++ to ruling **council**:
+  + bold **proclamation**
+  + only way to be **saved**:
 
 ---
 [7](# "ref")
@@ -85,6 +103,13 @@ given among men by which we must be saved.”
 1. The **Stone** Rejected [(v11)](# "ref")
 1. **Salvation** in No Other [(v12)](# "ref")
 
+>>>
++ give **credit** for healing/saving
+  + lay out **who** Jesus is
++ expect **opposition** to God's truth
+  + even **disdain**, not recog importance
++ **proclaim** only way to **wholeness**
+
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 let it be **known** to all of you <br>
@@ -98,6 +123,14 @@ by him this man is standing before you well.
 
 [Acts 4:10 (ESV)](# "ref")
 
+>>>
++ person of Jesus still **fresh** in minds:
+  + **Nazareth**: upbringing in Galilee
+  + **crucified**: you deemed him liar
+  + **raised**: we are witnesses
++ give **credit** for healing
+  + a **good deed** (v9)
+
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 Men of Israel, why do you **wonder** at this, <br>
@@ -110,16 +143,21 @@ we have made him walk?
 
 ---
 <!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
-I have no **silver** and **gold**, <br>
-but what I **do** have I **give** to you.
+when they saw the **boldness** of Peter and John, <br>
+and perceived that they were <br>
+**uneducated**, **common** men, they were astonished.
 
-In the name of **Jesus Christ** of Nazareth, <br>
-rise up and **walk**!
+And they recognized that they had **been with Jesus**.
 
-[Acts 3:6 (ESV)](# "ref")
+[Acts 4:13 (ESV)](# "ref")
+
+>>>
++ **boldness**: free speech
++ **uneducated**: illiterate, w/o grammar
++ **common**: idiot, non-expert
 
 ---
-And now, Lord, look upon their threats  <br>
+And now, Lord, look upon their **threats**  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
 
