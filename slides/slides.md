@@ -4,7 +4,18 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What do I need **saving** from?
+# Does Jesus still **save** people today?
+
+>>>
++ read of disciples' **faith**
+  + expon **growth** of early church
+  + **miracles** and wonders
++ was that only for **then**?
++ will I **proclaim** Christ's **salvation**
+  + tell the **gospel** message boldly
+  + even if it causes **offense**
+  + bc only **one** way to be saved
++ *(opening prayer)*
 
 ---
 But you will receive **power** <br>
@@ -156,6 +167,7 @@ like the rest of **mankind**.
   + not just **two** of them:
 
 ---
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 But seeing the man who was **healed** <br>
 **standing** beside them, <br>
 they had **nothing** to say in opposition
@@ -187,6 +199,7 @@ we have made him walk?
 + **rescued**: what **God** has done
   + not what **I** have done
   + not by **own** holiness
++ e.g., "look at you, you're no **saint**!"
 + give **credit** to Christ:
 
 ---
@@ -275,12 +288,25 @@ your holy servant Jesus.
 1. **The Stone Rejected** [(v11)](# "ref")
 1. Salvation in No Other [(v12)](# "ref")
 
+>>>
++ testimony in **conduct** and **word**
++ we must **proclaim** boldly,
+  + not only to those who will **believe**
++ but even those who have **rejected**:
+
 ---
 This Jesus is the **stone** <br>
-that was **rejected** by you, the builders, <br>
+that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
 
 [Acts 4:11 (ESV)](# "ref")
+
+>>>
++ brought before **Sanhedrin**
+  + **temple** jurisdiction
+  + keepers of heritage, **community**
++ to **build** a way for
+  + **laity** to **worship** God
 
 ---
 The stone that the builders **rejected** <br>
