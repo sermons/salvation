@@ -57,11 +57,22 @@ given among men by which we must be saved.”
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
+## Healing at the Temple Gate
++ At the Temple Gate [(3:1-11)](# "ref")
+  + *"no silver or gold ..."*
++ To the Crowds [(3:12-26)](# "ref")
+  + *"repent and turn back ..."*
++ To the Sanhedrin [(4:1-22)](# "ref")
+  + *"salvation in no one else ..."*
++ With the Believers [(4:23-31)](# "ref")
+  + *"grant [us] all boldness ..."*
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
-1. Let It Be **Known**
-1. The **Stone** Rejected
-1. **Salvation** in No Other
+1. Let It Be **Known** [(v10)](# "ref")
+1. The **Stone** Rejected [(v11)](# "ref")
+1. **Salvation** in No Other [(v12)](# "ref")
 
 ---
 let it be **known** to all of you <br>
@@ -94,6 +105,19 @@ rise up and **walk**!
 [Acts 3:6 (ESV)](# "ref")
 
 ---
+And now, Lord, look upon their threats  <br>
+and grant to your servants to continue  <br>
+to **speak** your word with all **boldness**, 
+
+[(30)](# "ref")
+while you stretch out your hand to **heal**,  <br>
+and **signs** and wonders are performed  <br>
+through the **name** of  <br>
+your holy servant Jesus.
+
+[Acts 4:29-30 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # How will I make the **name** of Jesus be **known**?
 
@@ -106,6 +130,33 @@ that was **rejected** by you, the builders, <br>
 which has become the **cornerstone**.
 
 [Acts 4:11 (ESV)](# "ref")
+
+---
+The stone that the builders **rejected** <br>
+has become the **cornerstone**.
+
+[(23)](# "ref")
+This is the **LORD**'s doing; <br>
+it is **marvelous** in our eyes.
+
+[Psalm 118:22-23 (ESV)](# "ref")
+
+>>>
+
+---
+Therefore I tell you, the kingdom of God  <br>
+will be **taken away** from you  <br>
+and given to a people producing its **fruits**. 
+
+[(44)](# "ref") 
+And the one who **falls** on this stone  <br>
+will be **broken** to pieces;  <br>
+and when it falls on anyone, it will **crush** him.
+
+[Matthew 21:43-44 (ESV)](# "ref")
+
+>>>
++ parable of vineyard + wicked tenants
 
 ---
 <!-- .slide: data-background="white" -->
