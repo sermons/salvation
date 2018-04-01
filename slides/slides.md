@@ -74,6 +74,7 @@ given among men by which we must be saved.”
 1. **Salvation** in No Other [(v12)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 let it be **known** to all of you <br>
 and to all the people of Israel
 
@@ -86,6 +87,7 @@ by him this man is standing before you well.
 [Acts 4:10 (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 Men of Israel, why do you **wonder** at this, <br>
 or why do you **stare** at us,
 
@@ -95,6 +97,7 @@ we have made him walk?
 [Acts 3:12 (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
 I have no **silver** and **gold**, <br>
 but what I **do** have I **give** to you.
 
@@ -106,7 +109,7 @@ rise up and **walk**!
 ---
 And now, Lord, look upon their threats  <br>
 and grant to your servants to continue  <br>
-to **speak** your word with all **boldness**, 
+to **speak** your word with all **boldness**,
 
 [(30)](# "ref")
 while you stretch out your hand to **heal**,  <br>
@@ -145,9 +148,9 @@ it is **marvelous** in our eyes.
 ---
 Therefore I tell you, the kingdom of God  <br>
 will be **taken away** from you  <br>
-and given to a people producing its **fruits**. 
+and given to a people producing its **fruits**.
 
-[(44)](# "ref") 
+[(44)](# "ref")
 And the one who **falls** on this stone  <br>
 will be **broken** to pieces;  <br>
 and when it falls on anyone, it will **crush** him.
