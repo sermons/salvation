@@ -18,7 +18,7 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 [Acts 1:8 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> class="outline"-->
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 + With the **Crippled** Man [(3:1-11)](# "ref")
   + *"no silver or gold ..."*
 + To the **Crowds** [(3:12-26)](# "ref")
@@ -86,6 +86,7 @@ given among men by which we must be saved.”
 1. **Salvation** in No Other [(v12)](# "ref")
 
 ---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 let it be **known** to all of you <br>
 and to all the people of Israel
 
@@ -227,7 +228,8 @@ for there is **no other name** under heaven<br>
   + plan of **salvation**
 
 ---
-For there is no **distinction** between Jew and Greek; <br>
+For there is no **distinction** <br>
+between Jew and Greek; <br>
 for the same Lord is **Lord of all**, <br>
 bestowing his **riches** on all who call on him.
 
