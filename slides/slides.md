@@ -418,6 +418,16 @@ for there is **no other name** under heaven<br>
   + plan of **salvation**
 
 ---
+And this is **eternal life**: <br>
+that they know you, the **only true God**, <br>
+and **Jesus Christ** whom you have sent.
+
+[John 17:3 (ESV)](# "ref")
+
+>>>
++ why exclusive? 
+
+---
 For there is no **distinction** <br>
 between Jew and Greek; <br>
 for the same Lord is **Lord of all**, <br>
