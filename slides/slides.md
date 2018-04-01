@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
 # Salvation in <br> No Other
 ## Acts 4:7-12
 
@@ -11,6 +11,7 @@
   + expon **growth** of early church
   + **miracles** and wonders
 + was that only for **then**?
++ what do we need **saving** from?
 + will I **proclaim** Christ's **salvation**
   + tell the **gospel** message boldly
   + even if it causes **offense**
@@ -108,7 +109,7 @@ given among men by which we must be saved.”
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="outline" class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the **Story** Be Known [(v10)](# "ref")
 1. The **Stone** Rejected [(v11)](# "ref")
@@ -282,7 +283,7 @@ your holy servant Jesus.
 + **speak** freely the gospel message
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the Story Be Known [(v10)](# "ref")
 1. **The Stone Rejected** [(v11)](# "ref")
@@ -431,7 +432,7 @@ as they were **destined** to do.
   + some to **reject**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the Story Be Known [(v10)](# "ref")
 1. The Stone Rejected [(v11)](# "ref")
@@ -535,7 +536,7 @@ the **Christ** appointed for you, Jesus
   + or **repent** + **trust**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 There is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be **saved**.
@@ -543,4 +544,4 @@ given among men by which we must be **saved**.
 [Acts 4:12 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="empty" -->
