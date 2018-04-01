@@ -19,6 +19,7 @@
 + *(opening prayer)*
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 But you will receive **power** <br>
 when the **Holy Spirit** has come upon you; <br>
 and you will be my **witnesses**
@@ -125,6 +126,7 @@ given among men by which we must be saved.”
 + first, what is **salvation**?
 
 ---
+<!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
 if we are being examined today concerning <br>
 a **good deed** done to a crippled man, <br>
 by what means this man has been **healed**,
@@ -144,6 +146,7 @@ by what means this man has been **healed**,
 + **rescue**: from curse of **sin**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 And you were **dead** in the trespasses and **sins** <br>
 [2](# "ref")
 in which you once **walked**, <br>
@@ -168,7 +171,7 @@ like the rest of **mankind**.
   + not just **two** of them:
 
 ---
-<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 But seeing the man who was **healed** <br>
 **standing** beside them, <br>
 they had **nothing** to say in opposition
@@ -204,7 +207,7 @@ we have made him walk?
 + give **credit** to Christ:
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 let it be **known** to all of you <br>
 and to all the people of Israel
 
@@ -235,7 +238,7 @@ by him this man is **standing** before you well.
 + not just for **pastors**, theologians:
 
 ---
-<!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
+<!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 when they saw the **boldness** of Peter and John, <br>
 and perceived that they were <br>
 **uneducated**, **common** men, they were astonished.
@@ -253,6 +256,7 @@ And they recognized that they had **been with Jesus**.
   + pray for **boldness**:
 
 ---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 And now, Lord, look upon their **threats**  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
@@ -296,6 +300,7 @@ your holy servant Jesus.
 + but even those who have **rejected**:
 
 ---
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 This Jesus is the **stone** <br>
 that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
@@ -315,6 +320,7 @@ which has become the **cornerstone**.
   + **Pascal** (math, theology):
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 What else does this **craving**, <br>
 and this **helplessness**, proclaim ...?
 
@@ -336,6 +342,7 @@ only ... by **God himself**
 + Peter in Acts quotes **Psalm 118**:
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 The stone that the builders **rejected** <br>
 has become the **cornerstone**.
 
@@ -362,6 +369,7 @@ it is **marvelous** in our eyes.
 + parable of **vineyard** + wicked tenants:
 
 ---
+<!-- .slide: <%= bg("Ludy-Christ_curses_Pharisees.jpg") %> -->
 Therefore I tell you, the kingdom of God  <br>
 will be **taken away** from you  <br>
 and given to a people producing its **fruits**.
@@ -387,7 +395,7 @@ and when it falls on anyone, it will **crush** him.
 + my choice: how to **respond**
 
 ---
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 Behold, I am laying in Zion a **stone**, <br>
 a **cornerstone** chosen and precious,
 
@@ -405,6 +413,7 @@ will not be put to **shame**.
   + rock of **offense**
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 But for those who do **not believe**, ...
 
 [8](# "ref")
@@ -449,6 +458,7 @@ as they were **destined** to do.
 + Peter **closes** his defense to the Sanhedrin:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 And there is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 **given** among men by which we must be **saved**.
@@ -466,6 +476,7 @@ for there is **no other name** under heaven<br>
   + harps + **halos**? (boring)
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 And this is **eternal life**: <br>
 that they know you, the **only true God**, <br>
 and **Jesus Christ** whom you have sent.
@@ -481,6 +492,7 @@ and **Jesus Christ** whom you have sent.
   + Christ: **Anointed** / commissioned
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 For there is no **distinction** <br>
 between Jew and Greek; <br>
 for the same Lord is **Lord of all**, <br>
@@ -501,6 +513,7 @@ on the **name** of the Lord will be **saved**.”
   + Peter to **crowds** in ch3:
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
