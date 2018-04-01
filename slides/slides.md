@@ -332,21 +332,6 @@ only ... by **God himself**
   + **unable** to carry it out
 + attempt to **fill** the void
   + but **refuse** to seek God
-
----
-Therefore I tell you, the kingdom of God  <br>
-will be **taken away** from you  <br>
-and given to a people producing its **fruits**.
-
-[44](# "ref")
-And the one who **falls** on this stone  <br>
-will be **broken** to pieces;  <br>
-and when it falls on anyone, it will **crush** him.
-
-[Matthew 21:43-44 (ESV)](# "ref")
-
->>>
-+ parable of vineyard + wicked tenants
 + Peter in Acts quotes **Psalm 118**:
 
 ---
@@ -368,6 +353,37 @@ it is **marvelous** in our eyes.
   + **preeminent** and **essential**
 + **marvelous**: surpassing, beyond us
   + "not what I would have done"
++ this **truth** does not change:
+  + that Christ is **Son of God**
+  + rightful **heir** + only **way**
++ **denying** it only **hurts** ourselves
+  + Jesus quotes same Psalm
++ parable of **vineyard** + wicked tenants:
+
+---
+Therefore I tell you, the kingdom of God  <br>
+will be **taken away** from you  <br>
+and given to a people producing its **fruits**.
+
+[44](# "ref")
+And the one who **falls** on this stone  <br>
+will be **broken** to pieces;  <br>
+and when it falls on anyone, it will **crush** him.
+
+[Matthew 21:43-44 (ESV)](# "ref")
+
+>>>
++ **deny**, oppose Son of God
+  + do not **give** to God
+  + what **belongs** to Him
++ try to **break** it: 
+  + it will break you
++ try to **avoid** / ignore it:
+  + it will hunt you down
++ e.g. JJ **tantrums**: only solution is 
+  + **pray**, submit to God
++ e.g. can't make **sun **not set
++ my choice: how to **respond**
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
