@@ -206,6 +206,20 @@ given among men by which we must be **saved**.
 + Ez kicking in blood
 
 ---
+For there is no **distinction** between Jew and Greek; <br>
+for the same Lord is **Lord of all**, <br>
+bestowing his **riches** on all who call on him.
+
+[13](# "ref")
+For “everyone who **calls**  <br>
+on the **name** of the Lord will be **saved**.”
+
+[Romans 10:12-13 (ESV)](# "ref")
+
+>>>
++ given to **all** people
+
+---
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
