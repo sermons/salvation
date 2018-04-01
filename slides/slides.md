@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my soul need **saving**?
+# What do I need **saving** from?
 
 [###](#/outline "secret")
 
@@ -57,20 +57,19 @@ given among men by which we must be saved.”
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
-## Healing at the Temple Gate
-+ At the Temple Gate [(3:1-11)](# "ref")
++ With the **Crippled** Man [(3:1-11)](# "ref")
   + *"no silver or gold ..."*
-+ To the Crowds [(3:12-26)](# "ref")
++ To the **Crowds** [(3:12-26)](# "ref")
   + *"repent and turn back ..."*
-+ To the Sanhedrin [(4:1-22)](# "ref")
++ To the **Sanhedrin** [(4:1-22)](# "ref")
   + *"salvation in no one else ..."*
-+ With the Believers [(4:23-31)](# "ref")
++ With the **Believers** [(4:23-31)](# "ref")
   + *"grant [us] all boldness ..."*
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
-1. Let It Be **Known** [(v10)](# "ref")
+1. Let the **Story** Be Known [(v10)](# "ref")
 1. The **Stone** Rejected [(v11)](# "ref")
 1. **Salvation** in No Other [(v12)](# "ref")
 
