@@ -6,6 +6,28 @@
 <!-- .slide: data-background="white" -->
 # What do I need **saving** from?
 
+---
+But you will receive **power** <br>
+when the **Holy Spirit** has come upon you; <br>
+and you will be my **witnesses**
+
+in **Jerusalem** [(ch2-7)](# "ref"), <br>
+and in all **Judea and Samaria** [(ch8-11)](# "ref"), <br>
+and to the **end of the earth** [(ch12-28)](# "ref").
+
+[Acts 1:8 (ESV)](# "ref")
+
+---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> class="outline"-->
++ With the **Crippled** Man [(3:1-11)](# "ref")
+  + *"no silver or gold ..."*
++ To the **Crowds** [(3:12-26)](# "ref")
+  + *"repent and turn back ..."*
++ To the **Sanhedrin** [(4:1-22)](# "ref")
+  + *"salvation in no one else ..."*
++ With the **Believers** [(4:23-31)](# "ref")
+  + *"grant [us] all boldness ..."*
+
 [###](#/outline "secret")
 
 ---
@@ -55,24 +77,6 @@ for there is no other name under heaven<br>
 given among men by which we must be saved.”
 
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
-
----
-## Outline of Acts [(1:8)](# "ref")
-You will receive power when the Holy Spirit comes on you; <br>
-and you will be my witnesses in **Jerusalem** [(ch2-7)](# "ref"), <br>
-and in all **Judea and Samaria** [(ch8-11)](# "ref"), <br>
-and to the **ends of the earth** [(ch12-28)](# "ref").
-
----
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> class="outline"-->
-+ With the **Crippled** Man [(3:1-11)](# "ref")
-  + *"no silver or gold ..."*
-+ To the **Crowds** [(3:12-26)](# "ref")
-  + *"repent and turn back ..."*
-+ To the **Sanhedrin** [(4:1-22)](# "ref")
-  + *"salvation in no one else ..."*
-+ With the **Believers** [(4:23-31)](# "ref")
-  + *"grant [us] all boldness ..."*
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -168,13 +172,14 @@ and when it falls on anyone, it will **crush** him.
 + parable of vineyard + wicked tenants
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Behold, I am laying in Zion a **stone**, <br>
 a **cornerstone** chosen and precious,
 
 and whoever **believes** in him <br>
 will not be put to **shame**.
 
-[1 Peter 2:6 (Isaiah 28:16) (ESV)](# "ref")
+[1 Peter 2:6 (Isaiah 28:16) (ESV) (p.1/2)](# "ref")
 
 >>>
 + those who **believe** (chosen people):
@@ -183,6 +188,24 @@ will not be put to **shame**.
 + but those who **disbelieve**:
   + stone of **stumbling** (disobey)
   + rock of **offense**
+
+---
+But for those who do **not believe**, ...
+
+[8](# "ref")
+“A stone of **stumbling**, <br>
+and a rock of **offense**.”
+
+They stumble because they **disobey** the word, <br>
+as they were **destined** to do.
+
+[1 Peter 2:7,8 (ESV) (p.2/2)](# "ref")
+
+>>>
++ **stumble**: strike against (in anger)
+  + **offense**: deem scandalous
++ **disobey**: dis-believe, refuse, rebel
+  + **destined**: into which were appointed/set
 
 ---
 <!-- .slide: data-background="white" -->
@@ -194,7 +217,7 @@ will not be put to **shame**.
 ---
 And there is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
-given among men by which we must be **saved**.
+**given** among men by which we must be **saved**.
 
 [Acts 4:12 (ESV)](# "ref")
 
@@ -202,8 +225,6 @@ given among men by which we must be **saved**.
 + **given**: God did not leave us to sin/brokenness
   + gave us way out
   + plan of **salvation**
-+ way truth life?
-+ Ez kicking in blood
 
 ---
 For there is no **distinction** between Jew and Greek; <br>
