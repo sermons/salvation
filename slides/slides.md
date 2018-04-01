@@ -57,6 +57,14 @@ given among men by which we must be saved.”
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
+## Outline of Acts [(1:8)](# "ref")
+You will receive power when the Holy Spirit comes on you; <br>
+and you will be my witnesses in **Jerusalem** [(ch2-7)](# "ref"), <br>
+and in all **Judea and Samaria** [(ch8-11)](# "ref"), <br>
+and to the **ends of the earth** [(ch12-28)](# "ref").
+
+---
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> class="outline"-->
 + With the **Crippled** Man [(3:1-11)](# "ref")
   + *"no silver or gold ..."*
 + To the **Crowds** [(3:12-26)](# "ref")
@@ -74,7 +82,6 @@ given among men by which we must be saved.”
 1. **Salvation** in No Other [(v12)](# "ref")
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 let it be **known** to all of you <br>
 and to all the people of Israel
 
@@ -111,7 +118,7 @@ And now, Lord, look upon their threats  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
 
-[(30)](# "ref")
+[30](# "ref")
 while you stretch out your hand to **heal**,  <br>
 and **signs** and wonders are performed  <br>
 through the **name** of  <br>
@@ -137,7 +144,7 @@ which has become the **cornerstone**.
 The stone that the builders **rejected** <br>
 has become the **cornerstone**.
 
-[(23)](# "ref")
+[23](# "ref")
 This is the **LORD**'s doing; <br>
 it is **marvelous** in our eyes.
 
@@ -150,7 +157,7 @@ Therefore I tell you, the kingdom of God  <br>
 will be **taken away** from you  <br>
 and given to a people producing its **fruits**.
 
-[(44)](# "ref")
+[44](# "ref")
 And the one who **falls** on this stone  <br>
 will be **broken** to pieces;  <br>
 and when it falls on anyone, it will **crush** him.
@@ -159,6 +166,23 @@ and when it falls on anyone, it will **crush** him.
 
 >>>
 + parable of vineyard + wicked tenants
+
+---
+Behold, I am laying in Zion a **stone**, <br>
+a **cornerstone** chosen and precious,
+
+and whoever **believes** in him <br>
+will not be put to **shame**.
+
+[1 Peter 2:6 (Isaiah 28:16) (ESV)](# "ref")
+
+>>>
++ those who **believe** (chosen people):
+  + are **built** up as living **stones**
+  + as spiritual **house**
++ but those who **disbelieve**:
+  + stone of **stumbling** (disobey)
+  + rock of **offense**
 
 ---
 <!-- .slide: data-background="white" -->
