@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
 # Salvation in <br> No Other
 ## Acts 4:7-12
 
@@ -11,6 +11,7 @@
   + expon **growth** of early church
   + **miracles** and wonders
 + was that only for **then**?
++ what do we need **saving** from?
 + will I **proclaim** Christ's **salvation**
   + tell the **gospel** message boldly
   + even if it causes **offense**
@@ -18,6 +19,7 @@
 + *(opening prayer)*
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 But you will receive **power** <br>
 when the **Holy Spirit** has come upon you; <br>
 and you will be my **witnesses**
@@ -108,7 +110,7 @@ given among men by which we must be saved.”
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="outline" class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the **Story** Be Known [(v10)](# "ref")
 1. The **Stone** Rejected [(v11)](# "ref")
@@ -124,6 +126,7 @@ given among men by which we must be saved.”
 + first, what is **salvation**?
 
 ---
+<!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
 if we are being examined today concerning <br>
 a **good deed** done to a crippled man, <br>
 by what means this man has been **healed**,
@@ -143,6 +146,7 @@ by what means this man has been **healed**,
 + **rescue**: from curse of **sin**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 And you were **dead** in the trespasses and **sins** <br>
 [2](# "ref")
 in which you once **walked**, <br>
@@ -167,7 +171,7 @@ like the rest of **mankind**.
   + not just **two** of them:
 
 ---
-<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
+<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
 But seeing the man who was **healed** <br>
 **standing** beside them, <br>
 they had **nothing** to say in opposition
@@ -203,7 +207,7 @@ we have made him walk?
 + give **credit** to Christ:
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame-phot.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 let it be **known** to all of you <br>
 and to all the people of Israel
 
@@ -234,7 +238,7 @@ by him this man is **standing** before you well.
 + not just for **pastors**, theologians:
 
 ---
-<!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
+<!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 when they saw the **boldness** of Peter and John, <br>
 and perceived that they were <br>
 **uneducated**, **common** men, they were astonished.
@@ -252,6 +256,7 @@ And they recognized that they had **been with Jesus**.
   + pray for **boldness**:
 
 ---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 And now, Lord, look upon their **threats**  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
@@ -282,7 +287,7 @@ your holy servant Jesus.
 + **speak** freely the gospel message
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the Story Be Known [(v10)](# "ref")
 1. **The Stone Rejected** [(v11)](# "ref")
@@ -295,6 +300,7 @@ your holy servant Jesus.
 + but even those who have **rejected**:
 
 ---
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 This Jesus is the **stone** <br>
 that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
@@ -314,6 +320,7 @@ which has become the **cornerstone**.
   + **Pascal** (math, theology):
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 What else does this **craving**, <br>
 and this **helplessness**, proclaim ...?
 
@@ -335,6 +342,7 @@ only ... by **God himself**
 + Peter in Acts quotes **Psalm 118**:
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 The stone that the builders **rejected** <br>
 has become the **cornerstone**.
 
@@ -361,6 +369,7 @@ it is **marvelous** in our eyes.
 + parable of **vineyard** + wicked tenants:
 
 ---
+<!-- .slide: <%= bg("Ludy-Christ_curses_Pharisees.jpg") %> -->
 Therefore I tell you, the kingdom of God  <br>
 will be **taken away** from you  <br>
 and given to a people producing its **fruits**.
@@ -376,17 +385,17 @@ and when it falls on anyone, it will **crush** him.
 + **deny**, oppose Son of God
   + do not **give** to God
   + what **belongs** to Him
-+ try to **break** it: 
++ try to **break** it:
   + it will break you
 + try to **avoid** / ignore it:
   + it will hunt you down
-+ e.g. JJ **tantrums**: only solution is 
++ e.g. JJ **tantrums**: only solution is
   + **pray**, submit to God
 + e.g. can't make **sun **not set
 + my choice: how to **respond**
 
 ---
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 Behold, I am laying in Zion a **stone**, <br>
 a **cornerstone** chosen and precious,
 
@@ -404,6 +413,7 @@ will not be put to **shame**.
   + rock of **offense**
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 But for those who do **not believe**, ...
 
 [8](# "ref")
@@ -425,14 +435,30 @@ as they were **destined** to do.
 <!-- .slide: data-background="white" -->
 # Is Jesus a rock of **stumbling** to me or the **cornerstone**?
 
+>>>
++ am I willing to **proclaim**
++ even if it causes **offense**,
+  + some to **reject**?
+
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
 ## Salvation in No Other [(Ac4)](# "ref")
 1. Let the Story Be Known [(v10)](# "ref")
 1. The Stone Rejected [(v11)](# "ref")
 1. **Salvation in No Other** [(v12)](# "ref")
 
+>>>
++ proclaim **testimony**: word + deed
++ in search for **truth**, many will
+  + look to all other **stones**
+  + but **reject** the cornerstone
++ But God did not make salvation **hard** to find
+  + did not **leave** us struggling in sin
+  + but **revealed** the name of Jesus
++ Peter **closes** his defense to the Sanhedrin:
+
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 And there is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 **given** among men by which we must be **saved**.
@@ -443,8 +469,14 @@ for there is **no other name** under heaven<br>
 + **given**: God did not leave us to sin/brokenness
   + gave us way out
   + plan of **salvation**
++ why **exclusive**: no other name?
+  + what does it mean to be **saved**?
++ to have **eternal life**?
+  + get **old** but never die? (horrible)
+  + harps + **halos**? (boring)
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 And this is **eternal life**: <br>
 that they know you, the **only true God**, <br>
 and **Jesus Christ** whom you have sent.
@@ -452,9 +484,15 @@ and **Jesus Christ** whom you have sent.
 [John 17:3 (ESV)](# "ref")
 
 >>>
-+ why exclusive?
++ to **know** + be known: relationship
++ only one true **Creator** &rArr;
+  + only one **way** to be saved
++ God's **plan**: God **sent**
+  + Jesus: **Saviour**
+  + Christ: **Anointed** / commissioned
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 For there is no **distinction** <br>
 between Jew and Greek; <br>
 for the same Lord is **Lord of all**, <br>
@@ -468,8 +506,14 @@ on the **name** of the Lord will be **saved**.”
 
 >>>
 + given to **all** people
++ Jew: **churched**, religious
++ Greek: no church bg: trust in
+  + science, **reason**, experience
++ what must **we** do?
+  + Peter to **crowds** in ch3:
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
@@ -482,12 +526,30 @@ the **Christ** appointed for you, Jesus
 
 [Acts 3:19-20 (ESV)](# "ref")
 
----
-<!-- .slide: data-background="white" -->
-# Is there **hope** for humanity?
+>>>
++ **repent**: turn, change direction
+  + what we **chase** after
+  + deem as **worthy**, successful
++ **refreshing**: make **new**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: data-background="white" -->
+# Is there **hope** for our world?
+
+>>>
++ essential problem of **sin**:
+  + want to be **righteous**, good
+  + unable to **do** so
++ no hope for the **world**
+  + destined for **destruction**
++ but **each** of us has a choice
++ faced with the **truth** that
+  + one true Creator **sent** His Son
++ &rArr; take **offense** / disdain?
+  + or **repent** + **trust**
+
+---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 There is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be **saved**.
@@ -495,4 +557,4 @@ given among men by which we must be **saved**.
 [Acts 4:12 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="empty" -->
