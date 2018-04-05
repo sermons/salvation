@@ -2,6 +2,8 @@
 # Salvation in <br> No Other
 ## Acts 4:7-12
 
+[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+
 ---
 <!-- .slide: data-background="white" -->
 # Does Jesus still **save** people today?
@@ -49,6 +51,7 @@ and to the **end of the earth** [(ch12-28)](# "ref").
   + *"grant [us] all boldness ..."*
 
 [###](#/outline "secret")
+["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
 
 >>>
 + focus today not on **miracle** itself
@@ -116,6 +119,8 @@ given among men by which we must be saved.”
 1. The **Stone** Rejected [(v11)](# "ref")
 1. **Salvation** in No Other [(v12)](# "ref")
 
+[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+
 >>>
 + give **credit** for healing/saving
   + "story": not as in **fable**
@@ -132,6 +137,7 @@ a **good deed** done to a crippled man, <br>
 by what means this man has been **healed**,
 
 [Acts 4:9 (ESV)](# "ref")
+[Nicolas Poussin, "Saints Peter and John Healing the Lame Man", 1655. <br> Metropolitan Museum of Art, New York](https://www.metmuseum.org/art/collection/search/437330 "caption")
 
 >>>
 + **good deed**: act of mercy
@@ -157,6 +163,7 @@ following the course of this **world**, ...
 like the rest of **mankind**.
 
 [Ephesians 2:1-3 (ESV)](# "ref")
+[Tim Marshall, Piha Beach, NZ](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + "I'm no **worse** than rest of world"
@@ -177,6 +184,7 @@ But seeing the man who was **healed** <br>
 they had **nothing** to say in opposition
 
 [Acts 4:14 (ESV)](# "ref")
+["Apostles Peter and John Heal the Lame Man", <br> photomechanical after Raphael](https://wellcomecollection.org/works/qsy3sjt6 "caption")
 
 >>>
 + healed man **said** nothing
@@ -198,6 +206,7 @@ as though by our own **power** or **piety** <br>
 we have made him walk?
 
 [Acts 3:12 (ESV)](# "ref")
+["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
 
 >>>
 + **rescued**: what **God** has done
@@ -218,6 +227,7 @@ whom God **raised** from the dead —
 by him this man is **standing** before you well.
 
 [Acts 4:10 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + I want you to **know**:
@@ -293,6 +303,8 @@ your holy servant Jesus.
 1. **The Stone Rejected** [(v11)](# "ref")
 1. Salvation in No Other [(v12)](# "ref")
 
+[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+
 >>>
 + testimony in **conduct** and **word**
 + we must **proclaim** boldly,
@@ -331,6 +343,7 @@ since this infinite **abyss** can be filled <br>
 only ... by **God himself**
 
 [Blaise Pascal, "Pensees"](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + all search for **worship**
@@ -351,6 +364,7 @@ This is the **LORD**'s doing; <br>
 it is **marvelous** in our eyes.
 
 [Psalm 118:22-23 (ESV)](# "ref")
+[Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
 >>>
 + although Christ was **rejected**
@@ -403,6 +417,7 @@ and whoever **believes** in him <br>
 will not be put to **shame**.
 
 [1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
+[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + those who **believe** (chosen people):
@@ -424,6 +439,7 @@ They stumble because they **disobey** the word, <br>
 as they were **destined** to do.
 
 [1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
+[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + **stumble**: strike against (in anger)
@@ -447,6 +463,8 @@ as they were **destined** to do.
 1. The Stone Rejected [(v11)](# "ref")
 1. **Salvation in No Other** [(v12)](# "ref")
 
+[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+
 >>>
 + proclaim **testimony**: word + deed
 + in search for **truth**, many will
@@ -464,6 +482,7 @@ for there is **no other name** under heaven<br>
 **given** among men by which we must be **saved**.
 
 [Acts 4:12 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + **given**: God did not leave us to sin/brokenness
@@ -482,6 +501,7 @@ that they know you, the **only true God**, <br>
 and **Jesus Christ** whom you have sent.
 
 [John 17:3 (ESV)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
 >>>
 + to **know** + be known: relationship
@@ -503,6 +523,7 @@ For “everyone who **calls**  <br>
 on the **name** of the Lord will be **saved**.”
 
 [Romans 10:12-13 (ESV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + given to **all** people
@@ -525,6 +546,7 @@ and that he may send <br>
 the **Christ** appointed for you, Jesus
 
 [Acts 3:19-20 (ESV)](# "ref")
+[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
 + **repent**: turn, change direction
@@ -555,6 +577,7 @@ for there is **no other name** under heaven<br>
 given among men by which we must be **saved**.
 
 [Acts 4:12 (ESV)](# "ref")
+[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="empty" -->
