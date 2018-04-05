@@ -251,9 +251,11 @@ by him this man is **standing** before you well.
 <!-- .slide: <%= bg("Bodarevsky-Trial_of_Apostle_Paul.jpg") %> -->
 when they saw the **boldness** of Peter and John, <br>
 and perceived that they were <br>
-**uneducated**, **common** men, they were astonished.
+**uneducated**, **common** men, <br>
+they were astonished.
 
-And they recognized that they had **been with Jesus**.
+And they recognized that <br>
+they had been **with Jesus**.
 
 [Acts 4:13 (ESV)](# "ref")
 
@@ -337,7 +339,8 @@ What else does this **craving**, <br>
 and this **helplessness**, proclaim ...?
 
 This he tries in vain to **fill** <br>
-with **everything** around him, though none can help,
+with **everything** around him, <br>
+though none can help,
 
 since this infinite **abyss** can be filled <br>
 only ... by **God himself**
