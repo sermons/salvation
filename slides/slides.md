@@ -483,6 +483,30 @@ as they were **destined** to do.
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 And there is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
+given among men by which we must be saved.
+
+[Acts 4:12 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+
+>>>
++ in a **Name**: not an action, religion, lifestyle
++ power of Jesus' name:
+
+---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+... in the name of **Jesus Christ** <br>
+I pray, **Amen**
+
+>>>
++ why **pray** in Jesus' name?
++ **clarify** who we are praying to
++ **confirm** our identity as kept in His name
++ **claim** His promises
+
+---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+And there is salvation in no one else,<br>
+for there is no other name under heaven<br>
 **given** among men by which we must be **saved**.
 
 [Acts 4:12 (ESV)](# "ref")
