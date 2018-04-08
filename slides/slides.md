@@ -6,7 +6,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does Jesus still **save** people today?
+# How can I have **boldness** to proclaim Jesus?
 
 >>>
 + read of disciples' **faith**
@@ -128,6 +128,7 @@ given among men by which we must be saved.”
 + expect **opposition** to God's truth
   + even **disdain**, not recog importance
 + **proclaim** only way to **wholeness**
+  + **exclusivity**
 + first, what is **salvation**?
 
 ---
@@ -408,7 +409,7 @@ and when it falls on anyone, it will **crush** him.
   + it will hunt you down
 + e.g. JJ **tantrums**: only solution is
   + **pray**, submit to God
-+ e.g. can't make **sun **not set
++ e.g. can't make **sun** not set
 + my choice: how to **respond**
 
 ---
