@@ -8,7 +8,7 @@
     "Easter",
     "ppt"
   ],
-  "version": "1.6.20",
+  "version": "1.6.22",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "salvation.seanho.com",
@@ -39,6 +39,7 @@
       "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0",
+    "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js",
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -95,7 +96,7 @@
     "grunt-sass": "^2.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.2.0",
-    "decktape": "^2.8.0"
+    "decktape": "^2.8.1"
   },
   "scripts": {
     "postinstall": "grunt install",
