@@ -269,7 +269,7 @@ they had been **with Jesus**.
   + pray for **boldness**:
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 And now, Lord, look upon their **threats**  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
@@ -321,6 +321,7 @@ that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
 
 [Acts 4:11 (quoting Psalm 118:22) (ESV)](# "ref")
+
 
 >>>
 + brought before **Sanhedrin**
@@ -398,6 +399,7 @@ will be **broken** to pieces;  <br>
 and when it falls on anyone, it will **crush** him.
 
 [Matthew 21:43-44 (ESV)](# "ref")
+["Christ Curses the Pharisees", <br> Etching by F.A. Ludy after J.F. Overbeck, 1843. <br> Wellcome Collection, CC-BY 4.0](https://wellcomecollection.org/works/yrgj46d3 "caption")
 
 >>>
 + **deny**, oppose Son of God
@@ -496,6 +498,9 @@ given among men by which we must be saved.
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 ... in the name of **Jesus Christ** <br>
 I pray, **Amen**
+
+[&copy; 2010 @bigbirdz, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
+
 
 >>>
 + why **pray** in Jesus' name?
