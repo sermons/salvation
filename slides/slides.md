@@ -2,7 +2,7 @@
 # Salvation in <br> No Other
 ## Acts 4:7-12
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[&copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
