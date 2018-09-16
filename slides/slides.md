@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
 # Salvation in <br> No Other
+# <span class="zh">除他以外， 別無拯救</span>
 ## Acts 4:7-12
 
 [&copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
@@ -7,6 +8,7 @@
 ---
 <!-- .slide: data-background="white" -->
 # How can I have **boldness** to proclaim Jesus?
+# 我怎麼大膽地宣揚耶穌呢?
 
 >>>
 + We read of disciples' **faith**
@@ -29,6 +31,12 @@ in **Jerusalem** [(ch2-7)](# "ref"), <br>
 and in all **Judea and Samaria** [(ch8-11)](# "ref"), <br>
 and to the **end of the earth** [(ch12-28)](# "ref").
 
+<div class="zh">
+但聖靈降臨在你們身上， 你們就必得著能力，<br>
+並要在耶路撒冷、 猶太全地，<br>
+和撒瑪利亞， 直到地極， 作我的見證。
+</div>
+
 [Acts 1:8 (ESV)](# "ref")
 
 >>>
@@ -45,13 +53,13 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
-+ With the **Crippled** Man [(3:1-11)](# "ref")
++ With the **Crippled** Man <span class="zh">生來是瘸腿的</span> [(3:1-11)](# "ref")
   + *"no silver or gold ..."*
-+ To the **Crowds** [(3:12-26)](# "ref")
++ To the **Crowds** <span class="zh">對百姓</span> [(3:12-26)](# "ref")
   + *"repent and turn back ..."*
-+ To the **Sanhedrin** [(4:1-22)](# "ref")
++ To the **Sanhedrin** <span class="zh">對公會</span> [(4:1-22)](# "ref")
   + *"salvation in no one else ..."*
-+ With the **Believers** [(4:23-31)](# "ref")
++ With the **Believers** <span class="zh">對信徒</span> [(4:23-31)](# "ref")
   + *"grant [us] all boldness ..."*
 
 [###](#/outline "secret")
@@ -77,6 +85,11 @@ they inquired,
 “By what power or by what name <br>
 did you do this?”
 
+<div class="zh">
+叫 使 徒 站 在 當 中 ， 就 問 他 們 說 ：<br>
+你 們 用 甚 麼 能 力 ， 奉 誰 的 名 做 這 事 呢 ？
+</div>
+
 [Acts 4:7 (ESV) (p.1/4)](# "ref")
 
 ---
@@ -84,10 +97,21 @@ did you do this?”
 Then Peter, filled with the Holy Spirit, <br>
 said to them, “Rulers of the people and elders,
 
+<div class="zh">
+那 時 彼 得 被 聖 靈 充 滿 ， 對 他 們 說 ：
+</div>
+
 [9](# "ref")
 if we are being examined today concerning <br>
 a good deed done to a crippled man, <br>
 by what means this man has been healed,
+
+<div class="zh">
+治 民 的 官 府 和 長 老 阿 ， <br>
+倘 若 今 日 因 為 在 殘 疾 人 身 上 <br>
+所 行 的 善 事 查 問 我 們 <br>
+他 是 怎 麼 得 了 痊 愈 ，
+</div>
 
 [Acts 4:8-9 (ESV) (p.2/4)](# "ref")
 
@@ -102,6 +126,14 @@ whom God raised from the dead —
 
 by him this man is standing before you well.
 
+<div class="zh">
+你 們 眾 人 和 以 色 列 百 姓 都 當 知 道 ， <br>
+站 在 你 們 面 前 的 這 人 得 痊 愈 <br>
+是 因 你 們 所 釘 十 字 架 、 <br>
+神 叫 他 從 死 裡 復 活 的 <br>
+拿 撒 勒 人 耶 穌 基 督 的 名 。
+</div>
+
 [Acts 4:10 (ESV) (p.3/4)](# "ref")
 
 ---
@@ -110,19 +142,29 @@ This Jesus is the stone <br>
 that was rejected by you, the builders, <br>
 which has become the cornerstone.
 
+<div class="zh">
+他 是 你 們 匠 人 所 棄 的 石 頭 ， <br>
+已 成 了 房 角 的 頭 塊 石 頭 。
+</div>
+
 [12](# "ref")
 And there is salvation in no one else,<br>
 for there is no other name under heaven<br>
 given among men by which we must be saved.”
 
+<div class="zh">
+除 他 以 外 ， 別 無 拯 救 ； <br>
+因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+我 們 可 以 靠 著 得 救
+</div>
+
 [Acts 4:11-12 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="outline" class="outline" -->
-## Salvation in No Other [(Ac4)](# "ref")
-1. Let the **Story** Be Known [(v10)](# "ref")
-1. The **Stone** Rejected [(v11)](# "ref")
-1. **Salvation** in No Other [(v12)](# "ref")
+1. Let the **Story** Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
+1. The **Stone** Rejected <span class="zh">所棄的石頭</span> [(v11)](# "ref")
+1. **Salvation** in No Other <span class="zh">除他以外， 別無拯救</span> [(v12)](# "ref")
 
 [img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
@@ -140,6 +182,13 @@ given among men by which we must be saved.”
 if we are being examined today concerning <br>
 a **good deed** done to a crippled man, <br>
 by what means this man has been **healed**,
+
+<div class="zh">
+治 民 的 官 府 和 長 老 阿 ， <br>
+倘 若 今 日 因 為 在 殘 疾 人 身 上 <br>
+所 行 的 善 事 查 問 我 們 <br>
+他 是 怎 麼 得 了 痊 愈 ，
+</div>
 
 [Acts 4:9 (ESV)](# "ref")
 [Nicolas Poussin, "Saints Peter and John Healing the Lame Man", 1655. <br> Metropolitan Museum of Art, New York](https://www.metmuseum.org/art/collection/search/437330 "caption")
@@ -166,6 +215,11 @@ But seeing the man who was **healed** <br>
 **standing** beside them, <br>
 they had **nothing** to say in opposition
 
+<div class="zh">
+又 看 見 那 治 好 了 的 人 <br>
+和 他 們 一 同 站 著 ， 就 無 話 可 駁
+</div>
+
 [Acts 4:14 (ESV)](# "ref")
 ["Apostles Peter and John Heal the Lame Man", <br> photomechanical after Raphael](https://wellcomecollection.org/works/qsy3sjt6 "caption")
 
@@ -188,6 +242,12 @@ or why do you **stare** at us,
 as though by our own **power** or **piety** <br>
 we have made him walk?
 
+<div class="zh">
+以 色 列 人 哪 ， 為 甚 麼 把 這 事 當 作 希 奇 呢 ？ <br>
+為 甚 麼 定 睛 看 我 們 ， 以 為 我 們 憑 <br>
+自 己 的 能 力 和 虔 誠 使 這 人 行 走 呢 ？
+</div>
+
 [Acts 3:12 (ESV)](# "ref")
 ["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
 
@@ -208,6 +268,14 @@ whom you **crucified**, <br>
 whom God **raised** from the dead —
 
 by him this man is **standing** before you well.
+
+<div class="zh">
+你 們 眾 人 和 以 色 列 百 姓 都 當 知 道 ， <br>
+站 在 你 們 面 前 的 這 人 得 痊 愈 <br>
+是 因 你 們 所 釘 十 字 架 、 <br>
+神 叫 他 從 死 裡 復 活 的 <br>
+拿 撒 勒 人 耶 穌 基 督 的 名 。
+</div>
 
 [Acts 4:10 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
@@ -240,6 +308,12 @@ they were astonished.
 And they recognized that <br>
 they had been **with Jesus**.
 
+<div class="zh">
+他 們 見 彼 得 、 約 翰 的 膽 量 ， <br>
+又 看 出 他 們 原 是 沒 有 學 問 的 小 民 ，<br>
+就 希 奇 ， 認 明 他 們 是 跟 過 耶 穌 的 ；
+</div>
+
 [Acts 4:13 (ESV)](# "ref")
 
 >>>
@@ -256,11 +330,22 @@ And now, Lord, look upon their **threats**  <br>
 and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
 
+<div class="zh">
+</div>
+
 [30](# "ref")
 while you stretch out your hand to **heal**,  <br>
 and **signs** and wonders are performed  <br>
 through the **name** of  <br>
 your holy servant Jesus.
+
+<div class="zh">
+他 們 恐 嚇 我 們 ， 現 在 求 主 鑒 察 ， <br>
+一 面 叫 你 僕 人 大 放 膽 量 講 你 的 道 ，<br>
+一 面 伸 出 你 的 手 來 醫 治 疾 病 ，<br>
+並 且 使 神 蹟 奇 事 因 著 你 聖 僕 <br>
+耶 穌 的 名 行 出 來
+</div>
 
 [Acts 4:29-30 (ESV)](# "ref")
 
@@ -274,6 +359,7 @@ your holy servant Jesus.
 ---
 <!-- .slide: data-background="white" -->
 # How will I make the **name** of Jesus be **known**?
+# 我怎樣傳揚耶穌的名?
 
 >>>
 + **trust** Him in obedience
@@ -283,10 +369,9 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
-## Salvation in No Other [(Ac4)](# "ref")
-1. Let the Story Be Known [(v10)](# "ref")
-1. **The Stone Rejected** [(v11)](# "ref")
-1. Salvation in No Other [(v12)](# "ref")
+1. Let the Story Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
+1. **The Stone Rejected** <span class="zh">**所棄的石頭**</span> [(v11)](# "ref")
+1. Salvation in No Other <span class="zh">除他以外， 別無拯救</span> [(v12)](# "ref")
 
 [img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
@@ -302,8 +387,12 @@ This Jesus is the **stone** <br>
 that was **rejected** by you, the **builders**, <br>
 which has become the **cornerstone**.
 
-[Acts 4:11 (ESV)](# "ref")
+<div class="zh">
+他 是 你 們 匠 人 所 棄 的 石 頭 ， <br>
+已 成 了 房 角 的 頭 塊 石 頭 。
+</div>
 
+[Acts 4:11 (ESV)](# "ref")
 
 >>>
 + brought before **Sanhedrin**
@@ -350,6 +439,11 @@ has become the **cornerstone**.
 This is the **LORD**'s doing; <br>
 it is **marvelous** in our eyes.
 
+<div class="zh">
+匠 人 所 棄 的 石 頭 已 成 了 房 角 的 頭 塊 石 頭 。<br>
+這 是 耶 和 華 所 做 的 ， 在 我 們 眼 中 看 為 希 奇 。
+</div>
+
 [Psalm 118:22-23 (ESV)](# "ref")
 [Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
@@ -375,6 +469,12 @@ a **cornerstone** chosen and precious,
 and whoever **believes** in him <br>
 will not be put to **shame**.
 
+<div class="zh">
+看 哪 ， 我 把 所 揀 選 、 <br>
+所 寶 貴 的 房 角 石 安 放 在 錫 安 ；<br>
+信 靠 他 的 人 必 不 至 於 羞 愧 。
+</div>
+
 [1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
 [Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
@@ -397,6 +497,14 @@ and a rock of **offense**.”
 They stumble because they **disobey** the word, <br>
 as they were **destined** to do.
 
+<div class="zh">
+在 那 不 信 的 人 有 話 說 ： <br>
+匠 人 所 棄 的 石 頭 已 作 了 房 角 的 頭 塊 石 頭 。<br>
+又 說 ： 作 了 絆 腳 的 石 頭 ， 跌 人 的 磐 石 。<br>
+他 們 既 不 順 從 ， 就 在 道 理 上 絆 跌 ；<br>
+他 們 這 樣 絆 跌 也 是 預 定 的 。
+</div>
+
 [1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
 [Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
@@ -409,6 +517,7 @@ as they were **destined** to do.
 ---
 <!-- .slide: data-background="white" -->
 # Is Jesus a rock of **stumbling** to me or the **cornerstone**?
+# 耶穌是我的絆腳石或房角石?
 
 >>>
 + am I willing to **proclaim**
@@ -417,10 +526,9 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
-## Salvation in No Other [(Ac4)](# "ref")
-1. Let the Story Be Known [(v10)](# "ref")
-1. The Stone Rejected [(v11)](# "ref")
-1. **Salvation in No Other** [(v12)](# "ref")
+1. Let the Story Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
+1. The Stone Rejected <span class="zh">所棄的石頭</span> [(v11)](# "ref")
+1. **Salvation in No Other** <span class="zh">**除他以外， 別無拯救**</span> [(v12)](# "ref")
 
 [img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
@@ -440,6 +548,12 @@ And there is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be saved.
 
+<div class="zh">
+除 他 以 外 ， 別 無 拯 救 ； <br>
+因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+我 們 可 以 靠 著 得 救
+</div>
+
 [Acts 4:12 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
@@ -454,7 +568,6 @@ I pray, **Amen**
 
 [&copy; 2010 @bigbirdz, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
-
 >>>
 + why **pray** in Jesus' name?
 + **clarify** who we are praying to
@@ -466,6 +579,12 @@ I pray, **Amen**
 And there is *salvation* in no one else,<br>
 for there is *no other name* under heaven<br>
 **given** among men by which we must be **saved**.
+
+<div class="zh">
+除 他 以 外 ， 別 無 拯 救 ； <br>
+因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+我 們 可 以 靠 著 得 救
+</div>
 
 [Acts 4:12 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
@@ -486,6 +605,12 @@ And this is **eternal life**: <br>
 that they know you, the **only true God**, <br>
 and **Jesus Christ** whom you have sent.
 
+<div class="zh">
+認 識 你 ─ 獨 一 的 真 神 ，<br>
+並 且 認 識 你 所 差 來 的 耶 穌 基 督 ，<br>
+這 就 是 永 生 。
+</div>
+
 [John 17:3 (ESV)](# "ref")
 [Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
@@ -504,12 +629,20 @@ and **Jesus Christ** whom you have sent.
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
-[20](# "ref")
 that times of **refreshing** may come <br>
 from the presence of the Lord,
 
+[20](# "ref")
 and that he may send <br>
 the **Christ** appointed for you, Jesus
+
+<div class="zh">
+所 以 ， 你 們 當 悔 改 歸 正 ， <br>
+使 你 們 的 罪 得 以 塗 抹 ， <br>
+這 樣 ， 那 安 舒 的 日 子 就 必 從 主 面 前 來 到 ；<br>
+
+主 也 必 差 遣 所 預 定 給 你 們 的 基 督 耶 穌 降 臨 。
+</div>
 
 [Acts 3:19-20 (ESV)](# "ref")
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
@@ -523,6 +656,7 @@ the **Christ** appointed for you, Jesus
 ---
 <!-- .slide: data-background="white" -->
 # Is there **hope** for our world?
+# 我們的世界有希望嗎？
 
 >>>
 + essential problem of **sin**:
@@ -541,6 +675,12 @@ the **Christ** appointed for you, Jesus
 There is **salvation** in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be **saved**.
+
+<div class="zh">
+除 他 以 外 ， 別 無 拯 救 ； <br>
+因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+我 們 可 以 靠 著 得 救
+</div>
 
 [Acts 4:12 (ESV)](# "ref")
 [img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
