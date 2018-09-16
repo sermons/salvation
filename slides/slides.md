@@ -9,16 +9,15 @@
 # How can I have **boldness** to proclaim Jesus?
 
 >>>
-+ read of disciples' **faith**
-  + expon **growth** of early church
-  + **miracles** and wonders
-+ was that only for **then**?
-+ what do we need **saving** from?
-+ will I **proclaim** Christ's **salvation**
-  + tell the **gospel** message boldly
++ We read of disciples' **faith**
+  + rapid **growth** of early church
+  + many **miracles** and wonders
+  + **fearless** amid persecution
++ Was that only for **then**?
++ Will we today have **boldness** to
+  + **tell** others who Jesus is
   + even if it causes **offense**
-  + bc only **one** way to be saved
-+ *(opening prayer)*
+  + because only **one** way to be saved
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
@@ -33,11 +32,16 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 [Acts 1:8 (ESV)](# "ref")
 
 >>>
-+ after death, **resurrection**, ascension
-+ very start of NT **church**
-+ HS + **Pentecost** kick off, 3k (ch2)
-+ next **miracle**, 5k
-+ spread in **Jerusalem**
++ Book of **Acts**:
+  + after Jesus' death, **resurrection**
+  + Jesus' **ascension** and
+  + the start of NT **church**
++ 1:8 **outline** of the book:
+  + locally in **Jerusalem**
+  + surrounding **region** after Stephen is killed
+  + to the **end of the earth**
++ **Today's** passage is in first part:
+  + Peter+John heal **cripple** outside temple courts
 
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
@@ -54,13 +58,14 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 ["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
 
 >>>
-+ focus today not on **miracle** itself
-+ but on Peter's **response** when
++ Focus today not on **miracle** itself
+  + (read more in ch3)
++ But on Peter's **response** when
   + asked to give **explanation**
-+ to **crowds**: acted in **ignorance**
-  + &rArr; **repent** for forgiveness
-  + times of **refreshing**
-+ to ruling **council**:
++ To **crowds** who acted in **ignorance**, Peter says:
+  + **repent** for forgiveness of sin
+  + God brings times of **refreshing**
++ To unrepentant ruling **council**:
   + bold **proclamation**
   + only way to be **saved**:
 
