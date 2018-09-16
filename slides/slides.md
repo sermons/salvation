@@ -1,9 +1,9 @@
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
 # Salvation in No Other
-# <span class="zh">除他以外， 別無拯救</span>
+# <span class="zh">除他以外， <br> 別無拯救</span>
 ## Acts 4:7-12
 
-[&copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -27,12 +27,15 @@ But you will receive **power** <br>
 when the **Holy Spirit** has come upon you; <br>
 and you will be my **witnesses**
 
+<div class="zh">
+但聖靈降臨在你們身上， 你們就必得著能力，
+</div>
+
 in **Jerusalem** [(ch2-7)](# "ref"), <br>
 and in all **Judea and Samaria** [(ch8-11)](# "ref"), <br>
 and to the **end of the earth** [(ch12-28)](# "ref").
 
 <div class="zh">
-但聖靈降臨在你們身上， 你們就必得著能力，<br>
 並要在耶路撒冷、 猶太全地，<br>
 和撒瑪利亞， 直到地極， 作我的見證。
 </div>
@@ -53,14 +56,14 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
-+ With the **Crippled** Man <span class="zh">生來是瘸腿的</span> [(3:1-11)](# "ref")
-  + *"no silver or gold ..."*
-+ To the **Crowds** <span class="zh">對百姓</span> [(3:12-26)](# "ref")
-  + *"repent and turn back ..."*
-+ To the **Sanhedrin** <span class="zh">對公會</span> [(4:1-22)](# "ref")
-  + *"salvation in no one else ..."*
-+ With the **Believers** <span class="zh">對信徒</span> [(4:23-31)](# "ref")
-  + *"grant [us] all boldness ..."*
++ With the **Crippled** Man <span class="zh">生來是瘸腿的</span>
+  + [(3:1-11)](# "ref") *"no silver or gold ..."*
++ To the **Crowds** <span class="zh">對百姓</span>
+  + [(3:12-26)](# "ref") *"repent and turn back ..."*
++ To the **Sanhedrin** <span class="zh">對公會</span>
+  + [(4:1-22)](# "ref") *"salvation in no one else ..."*
++ With the **Believers** <span class="zh">對信徒</span>
+  + [(4:23-31)](# "ref") *"grant [us] all boldness ..."*
 
 [###](#/outline "secret")
 ["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
@@ -87,7 +90,8 @@ did you do this?”
 
 <div class="zh">
 叫 使 徒 站 在 當 中 ， 就 問 他 們 說 ：<br>
-你 們 用 甚 麼 能 力 ， 奉 誰 的 名 做 這 事 呢 ？
+你 們 用 甚 麼 能 力 ， <br>
+奉 誰 的 名 做 這 事 呢 ？
 </div>
 
 [Acts 4:7 (ESV) (p.1/4)](# "ref")
@@ -109,7 +113,7 @@ by what means this man has been healed,
 <div class="zh">
 治 民 的 官 府 和 長 老 阿 ， <br>
 倘 若 今 日 因 為 在 殘 疾 人 身 上 <br>
-所 行 的 善 事 查 問 我 們 <br>
+所 行 的 善 事 查 問 我 們
 他 是 怎 麼 得 了 痊 愈 ，
 </div>
 
@@ -118,12 +122,10 @@ by what means this man has been healed,
 ---
 [10](# "ref")
 let it be known to all of you <br>
-and to all the people of Israel
-
+and to all the people of Israel <br>
 that by the name of Jesus Christ of Nazareth, <br>
 whom you crucified, <br>
-whom God raised from the dead —
-
+whom God raised from the dead — <br>
 by him this man is standing before you well.
 
 <div class="zh">
@@ -140,19 +142,15 @@ by him this man is standing before you well.
 [11](# "ref")
 This Jesus is the stone <br>
 that was rejected by you, the builders, <br>
-which has become the cornerstone.
-
-<div class="zh">
-他 是 你 們 匠 人 所 棄 的 石 頭 ， <br>
-已 成 了 房 角 的 頭 塊 石 頭 。
-</div>
-
+which has become the cornerstone. <br>
 [12](# "ref")
 And there is salvation in no one else,<br>
 for there is no other name under heaven<br>
 given among men by which we must be saved.”
 
 <div class="zh">
+他 是 你 們 匠 人 所 棄 的 石 頭 ， <br>
+已 成 了 房 角 的 頭 塊 石 頭 。<br>
 除 他 以 外 ， 別 無 拯 救 ； <br>
 因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
@@ -162,11 +160,14 @@ given among men by which we must be saved.”
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="outline" class="outline" -->
-1. Let the **Story** Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
-1. The **Stone** Rejected <span class="zh">所棄的石頭</span> [(v11)](# "ref")
-1. **Salvation** in No Other <span class="zh">除他以外， 別無拯救</span> [(v12)](# "ref")
+1. Let the **Story** Be Known [(v10)](# "ref") <br>
+  <span class="zh">都當知道</span>
+1. The **Stone** Rejected [(v11)](# "ref") <br>
+  <span class="zh">所棄的石頭</span>
+1. **Salvation** in No Other [(v12)](# "ref") <br>
+  <span class="zh">除他以外， 別無拯救</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + Show **mercy** to others
@@ -260,13 +261,11 @@ we have made him walk?
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-let it be **known** to all of you <br>
-and to all the people of Israel
+let it be **known** to all of you ...
 
 that by the name of **Jesus Christ** of Nazareth, <br>
 whom you **crucified**, <br>
-whom God **raised** from the dead —
-
+whom God **raised** from the dead — <br>
 by him this man is **standing** before you well.
 
 <div class="zh">
@@ -331,23 +330,26 @@ and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
 
 <div class="zh">
+他 們 恐 嚇 我 們 ， 現 在 求 主 鑒 察 ， <br>
+一 面 叫 你 僕 人 大 放 膽 量 講 你 的 道 ，<br>
 </div>
 
-[30](# "ref")
+[Acts 4:29 (ESV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 while you stretch out your hand to **heal**,  <br>
 and **signs** and wonders are performed  <br>
 through the **name** of  <br>
 your holy servant Jesus.
 
 <div class="zh">
-他 們 恐 嚇 我 們 ， 現 在 求 主 鑒 察 ， <br>
-一 面 叫 你 僕 人 大 放 膽 量 講 你 的 道 ，<br>
 一 面 伸 出 你 的 手 來 醫 治 疾 病 ，<br>
 並 且 使 神 蹟 奇 事 因 著 你 聖 僕 <br>
 耶 穌 的 名 行 出 來
 </div>
 
-[Acts 4:29-30 (ESV)](# "ref")
+[Acts 4:30 (ESV) (p.2/2)](# "ref")
 
 >>>
 + not just by **living** a holy life
@@ -358,7 +360,7 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: data-background="white" -->
-# How will I make the **name** of Jesus be **known**?
+# How will I make <br> the **name** of Jesus <br> be **known**?
 # 我怎樣傳揚耶穌的名?
 
 >>>
@@ -369,11 +371,14 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
-1. Let the Story Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
-1. **The Stone Rejected** <span class="zh">**所棄的石頭**</span> [(v11)](# "ref")
-1. Salvation in No Other <span class="zh">除他以外， 別無拯救</span> [(v12)](# "ref")
+1. Let the Story Be Known [(v10)](# "ref") <br>
+  <span class="zh">都當知道</span>
+1. **The Stone Rejected** [(v11)](# "ref") <br>
+  <span class="zh">**所棄的石頭**</span>
+1. Salvation in No Other [(v12)](# "ref") <br>
+  <span class="zh">除他以外， 別無拯救</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + testimony in **conduct** and **word**
@@ -419,7 +424,7 @@ since this infinite **abyss** can be filled <br>
 only ... by **God himself**
 
 [Blaise Pascal, "Pensees"](# "ref")
-[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+[Strumble Head Lighthouse, UK. Dylan Roberts](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + all search for **worship**
@@ -440,8 +445,10 @@ This is the **LORD**'s doing; <br>
 it is **marvelous** in our eyes.
 
 <div class="zh">
-匠 人 所 棄 的 石 頭 已 成 了 房 角 的 頭 塊 石 頭 。<br>
-這 是 耶 和 華 所 做 的 ， 在 我 們 眼 中 看 為 希 奇 。
+匠 人 所 棄 的 石 頭 <br>
+已 成 了 房 角 的 頭 塊 石 頭 。<br>
+這 是 耶 和 華 所 做 的 ， <br>
+在 我 們 眼 中 看 為 希 奇 。
 </div>
 
 [Psalm 118:22-23 (ESV)](# "ref")
@@ -476,7 +483,7 @@ will not be put to **shame**.
 </div>
 
 [1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
-[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + those who **believe** (chosen people):
@@ -498,15 +505,14 @@ They stumble because they **disobey** the word, <br>
 as they were **destined** to do.
 
 <div class="zh">
-在 那 不 信 的 人 有 話 說 ： <br>
-匠 人 所 棄 的 石 頭 已 作 了 房 角 的 頭 塊 石 頭 。<br>
-又 說 ： 作 了 絆 腳 的 石 頭 ， 跌 人 的 磐 石 。<br>
+在 那 不 信 的 人 有 話 說 ： ...<br>
+作 了 絆 腳 的 石 頭 ， 跌 人 的 磐 石 。<br>
 他 們 既 不 順 從 ， 就 在 道 理 上 絆 跌 ；<br>
 他 們 這 樣 絆 跌 也 是 預 定 的 。
 </div>
 
 [1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
-[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + **stumble**: strike against (in anger)
@@ -516,8 +522,8 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is Jesus a rock of **stumbling** to me or the **cornerstone**?
-# 耶穌是我的絆腳石或房角石?
+# Is Jesus a rock of **stumbling** to me <br> or the **cornerstone**?
+# 耶穌是我的絆腳石<br>或房角石?
 
 >>>
 + am I willing to **proclaim**
@@ -526,11 +532,14 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
-1. Let the Story Be Known <span class="zh">都當知道</span> [(v10)](# "ref")
-1. The Stone Rejected <span class="zh">所棄的石頭</span> [(v11)](# "ref")
-1. **Salvation in No Other** <span class="zh">**除他以外， 別無拯救**</span> [(v12)](# "ref")
+1. Let the Story Be Known [(v10)](# "ref") <br>
+  <span class="zh">都當知道</span>
+1. The Stone Rejected [(v11)](# "ref") <br>
+  <span class="zh">所棄的石頭</span>
+1. **Salvation in No Other** [(v12)](# "ref") <br>
+  <span class="zh">**除他以外， 別無拯救**</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + proclaim **testimony**: word + deed
@@ -544,13 +553,14 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is **salvation** in no one else,<br>
+And there is salvation in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be saved.
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ， <br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
@@ -576,13 +586,14 @@ I pray, **Amen**
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is *salvation* in no one else,<br>
+And there is salvation in no one else,<br>
 for there is *no other name* under heaven<br>
 **given** among men by which we must be **saved**.
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ，<br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
@@ -629,6 +640,16 @@ and **Jesus Christ** whom you have sent.
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
+<div class="zh">
+所 以 ， 你 們 當 悔 改 歸 正 ， <br>
+使 你 們 的 罪 得 以 塗 抹 ，
+</div>
+
+[Acts 3:19-20 (ESV) (p.1/2)](# "ref")
+[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 that times of **refreshing** may come <br>
 from the presence of the Lord,
 
@@ -637,14 +658,13 @@ and that he may send <br>
 the **Christ** appointed for you, Jesus
 
 <div class="zh">
-所 以 ， 你 們 當 悔 改 歸 正 ， <br>
-使 你 們 的 罪 得 以 塗 抹 ， <br>
-這 樣 ， 那 安 舒 的 日 子 就 必 從 主 面 前 來 到 ；<br>
-
-主 也 必 差 遣 所 預 定 給 你 們 的 基 督 耶 穌 降 臨 。
+這 樣 ， 那 安 舒 的 日 子 <br>
+就 必 從 主 面 前 來 到 ；<br>
+主 也 必 差 遣 所 預 定 <br>
+給 你 們 的 基 督 耶 穌 降 臨 。
 </div>
 
-[Acts 3:19-20 (ESV)](# "ref")
+[Acts 3:20 (ESV) (p.2/2)](# "ref")
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
@@ -655,7 +675,7 @@ the **Christ** appointed for you, Jesus
 
 ---
 <!-- .slide: data-background="white" -->
-# Is there **hope** for our world?
+# Is there **hope** <br> for our world?
 # 我們的世界有希望嗎？
 
 >>>
@@ -678,12 +698,13 @@ given among men by which we must be **saved**.
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ， <br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
 [Acts 4:12 (ESV)](# "ref")
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="empty" -->
