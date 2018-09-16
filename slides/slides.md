@@ -260,13 +260,11 @@ we have made him walk?
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-let it be **known** to all of you <br>
-and to all the people of Israel
+let it be **known** to all of you ...
 
 that by the name of **Jesus Christ** of Nazareth, <br>
 whom you **crucified**, <br>
-whom God **raised** from the dead —
-
+whom God **raised** from the dead — <br>
 by him this man is **standing** before you well.
 
 <div class="zh">
@@ -331,23 +329,26 @@ and grant to your servants to continue  <br>
 to **speak** your word with all **boldness**,
 
 <div class="zh">
+他 們 恐 嚇 我 們 ， 現 在 求 主 鑒 察 ， <br>
+一 面 叫 你 僕 人 大 放 膽 量 講 你 的 道 ，<br>
 </div>
 
-[30](# "ref")
+[Acts 4:29 (ESV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 while you stretch out your hand to **heal**,  <br>
 and **signs** and wonders are performed  <br>
 through the **name** of  <br>
 your holy servant Jesus.
 
 <div class="zh">
-他 們 恐 嚇 我 們 ， 現 在 求 主 鑒 察 ， <br>
-一 面 叫 你 僕 人 大 放 膽 量 講 你 的 道 ，<br>
 一 面 伸 出 你 的 手 來 醫 治 疾 病 ，<br>
 並 且 使 神 蹟 奇 事 因 著 你 聖 僕 <br>
 耶 穌 的 名 行 出 來
 </div>
 
-[Acts 4:29-30 (ESV)](# "ref")
+[Acts 4:30 (ESV) (p.2/2)](# "ref")
 
 >>>
 + not just by **living** a holy life
@@ -358,7 +359,7 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: data-background="white" -->
-# How will I make the **name** of Jesus be **known**?
+# How will I make <br> the **name** of Jesus be **known**?
 # 我怎樣傳揚耶穌的名?
 
 >>>
@@ -443,8 +444,10 @@ This is the **LORD**'s doing; <br>
 it is **marvelous** in our eyes.
 
 <div class="zh">
-匠 人 所 棄 的 石 頭 已 成 了 房 角 的 頭 塊 石 頭 。<br>
-這 是 耶 和 華 所 做 的 ， 在 我 們 眼 中 看 為 希 奇 。
+匠 人 所 棄 的 石 頭 <br>
+已 成 了 房 角 的 頭 塊 石 頭 。<br>
+這 是 耶 和 華 所 做 的 ， <br>
+在 我 們 眼 中 看 為 希 奇 。
 </div>
 
 [Psalm 118:22-23 (ESV)](# "ref")
@@ -501,9 +504,8 @@ They stumble because they **disobey** the word, <br>
 as they were **destined** to do.
 
 <div class="zh">
-在 那 不 信 的 人 有 話 說 ： <br>
-匠 人 所 棄 的 石 頭 已 作 了 房 角 的 頭 塊 石 頭 。<br>
-又 說 ： 作 了 絆 腳 的 石 頭 ， 跌 人 的 磐 石 。<br>
+在 那 不 信 的 人 有 話 說 ： ...<br>
+作 了 絆 腳 的 石 頭 ， 跌 人 的 磐 石 。<br>
 他 們 既 不 順 從 ， 就 在 道 理 上 絆 跌 ；<br>
 他 們 這 樣 絆 跌 也 是 預 定 的 。
 </div>
@@ -519,8 +521,8 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is Jesus a rock of **stumbling** to me or the **cornerstone**?
-# 耶穌是我的絆腳石或房角石?
+# Is Jesus a rock of **stumbling** to me <br> or the **cornerstone**?
+# 耶穌是我的絆腳石<br>或房角石?
 
 >>>
 + am I willing to **proclaim**
@@ -556,7 +558,8 @@ given among men by which we must be saved.
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ， <br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
@@ -588,7 +591,8 @@ for there is *no other name* under heaven<br>
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ，<br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
@@ -684,7 +688,8 @@ given among men by which we must be **saved**.
 
 <div class="zh">
 除 他 以 外 ， 別 無 拯 救 ； <br>
-因 為 在 天 下 人 間 ， 沒 有 賜 下 別 的 名 ， <br>
+因 為 在 天 下 人 間 ， <br>
+沒 有 賜 下 別 的 名 ， <br>
 我 們 可 以 靠 著 得 救
 </div>
 
