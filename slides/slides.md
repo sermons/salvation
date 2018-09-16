@@ -360,7 +360,7 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: data-background="white" -->
-# How will I make <br> the **name** of Jesus be **known**?
+# How will I make <br> the **name** of Jesus <br> be **known**?
 # 我怎樣傳揚耶穌的名?
 
 >>>
@@ -649,6 +649,7 @@ that your sins may be **blotted out**,
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 that times of **refreshing** may come <br>
 from the presence of the Lord,
 
