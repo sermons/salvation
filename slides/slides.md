@@ -127,14 +127,13 @@ given among men by which we must be saved.”
 [img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
-+ give **credit** for healing/saving
-  + "story": not as in **fable**
++ Show **mercy** to others
+  + give **credit** to Jesus the Healer
   + lay out **who** Jesus is
-+ expect **opposition** to God's truth
-  + even **disdain**, not recog importance
-+ **proclaim** only way to **wholeness**
++ Expect **opposition** to God's truth
+  + the **majority** will not recognise Jesus' importance
++ **Proclaim** Jesus is the **only** way
   + **exclusivity**
-+ first, what is **salvation**?
 
 ---
 <!-- .slide: <%= bg("Poussin-Peter_John_heal_lame.jpg") %> -->
