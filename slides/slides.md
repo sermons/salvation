@@ -90,7 +90,8 @@ did you do this?”
 
 <div class="zh">
 叫 使 徒 站 在 當 中 ， 就 問 他 們 說 ：<br>
-你 們 用 甚 麼 能 力 ， 奉 誰 的 名 做 這 事 呢 ？
+你 們 用 甚 麼 能 力 ， <br>
+奉 誰 的 名 做 這 事 呢 ？
 </div>
 
 [Acts 4:7 (ESV) (p.1/4)](# "ref")
@@ -639,6 +640,15 @@ and **Jesus Christ** whom you have sent.
 **Repent** therefore, and **turn** back, <br>
 that your sins may be **blotted out**,
 
+<div class="zh">
+所 以 ， 你 們 當 悔 改 歸 正 ， <br>
+使 你 們 的 罪 得 以 塗 抹 ，
+</div>
+
+[Acts 3:19-20 (ESV) (p.1/2)](# "ref")
+[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
+
+---
 that times of **refreshing** may come <br>
 from the presence of the Lord,
 
@@ -647,14 +657,13 @@ and that he may send <br>
 the **Christ** appointed for you, Jesus
 
 <div class="zh">
-所 以 ， 你 們 當 悔 改 歸 正 ， <br>
-使 你 們 的 罪 得 以 塗 抹 ， <br>
-這 樣 ， 那 安 舒 的 日 子 就 必 從 主 面 前 來 到 ；<br>
-
-主 也 必 差 遣 所 預 定 給 你 們 的 基 督 耶 穌 降 臨 。
+這 樣 ， 那 安 舒 的 日 子 <br>
+就 必 從 主 面 前 來 到 ；<br>
+主 也 必 差 遣 所 預 定 <br>
+給 你 們 的 基 督 耶 穌 降 臨 。
 </div>
 
-[Acts 3:19-20 (ESV)](# "ref")
+[Acts 3:20 (ESV) (p.2/2)](# "ref")
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
@@ -665,7 +674,7 @@ the **Christ** appointed for you, Jesus
 
 ---
 <!-- .slide: data-background="white" -->
-# Is there **hope** for our world?
+# Is there **hope** <br> for our world?
 # 我們的世界有希望嗎？
 
 >>>
