@@ -424,7 +424,7 @@ since this infinite **abyss** can be filled <br>
 only ... by **God himself**
 
 [Blaise Pascal, "Pensees"](# "ref")
-[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+[Strumble Head Lighthouse, UK. Dylan Roberts](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + all search for **worship**
@@ -483,7 +483,7 @@ will not be put to **shame**.
 </div>
 
 [1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
-[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + those who **believe** (chosen people):
@@ -512,7 +512,7 @@ as they were **destined** to do.
 </div>
 
 [1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
-[Jordan Donaldson, Elephant Rock, Australia](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + **stumble**: strike against (in anger)
