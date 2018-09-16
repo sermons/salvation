@@ -2,7 +2,7 @@
  * Local styles specific to my presentations
  *********************************************/
 
-html { font-size: 36px; }
+html { font-size: 40px; }
 
 /* Shade background images */
 section[data-background-image] {
