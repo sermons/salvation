@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
-# Salvation in <br> No Other
+# Salvation in No Other
 # <span class="zh">除他以外， 別無拯救</span>
 ## Acts 4:7-12
 
@@ -8,7 +8,7 @@
 ---
 <!-- .slide: data-background="white" -->
 # How can I have **boldness** to proclaim Jesus?
-# 我怎麼大膽地宣揚耶穌呢?
+# <span class="zh">我怎麼大膽地 <br> 宣揚耶穌呢?</span>
 
 >>>
 + We read of disciples' **faith**
