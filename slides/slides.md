@@ -3,7 +3,7 @@
 # <span class="zh">除他以外， <br> 別無拯救</span>
 ## Acts 4:7-12
 
-[&copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -167,7 +167,7 @@ given among men by which we must be saved.”
 1. **Salvation** in No Other [(v12)](# "ref") <br>
   <span class="zh">除他以外， 別無拯救</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + Show **mercy** to others
@@ -378,7 +378,7 @@ your holy servant Jesus.
 1. Salvation in No Other [(v12)](# "ref") <br>
   <span class="zh">除他以外， 別無拯救</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + testimony in **conduct** and **word**
@@ -539,7 +539,7 @@ as they were **destined** to do.
 1. **Salvation in No Other** [(v12)](# "ref") <br>
   <span class="zh">**除他以外， 別無拯救**</span>
 
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + proclaim **testimony**: word + deed
@@ -704,7 +704,7 @@ given among men by which we must be **saved**.
 </div>
 
 [Acts 4:12 (ESV)](# "ref")
-[img &copy; 2008 Ian Britton, CC-BY-NC 2.0 <br> St. Cuthbert’s Isle, England](https://www.flickr.com/photos/freefoto/2552357124 "caption")
+[St. Cuthbert's Isle, UK. <br> &copy; 2008 Ian Britton, CC-BY-NC 2.0](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="empty" -->
