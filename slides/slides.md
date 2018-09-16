@@ -553,7 +553,7 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is **salvation** in no one else,<br>
+And there is salvation in no one else,<br>
 for there is **no other name** under heaven<br>
 given among men by which we must be saved.
 
@@ -586,7 +586,7 @@ I pray, **Amen**
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is *salvation* in no one else,<br>
+And there is salvation in no one else,<br>
 for there is *no other name* under heaven<br>
 **given** among men by which we must be **saved**.
 
