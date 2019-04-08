@@ -138,10 +138,12 @@ by what means this man has been healed,
 ---
 [10](# "ref")
 let it be known to all of you <br>
-and to all the people of Israel <br>
+and to all the people of Israel 
+
 that by the name of Jesus Christ of Nazareth, <br>
 whom you crucified, <br>
-whom God raised from the dead — <br>
+whom God raised from the dead — 
+
 by him this man is standing before you well.
 
 <!--
@@ -160,7 +162,8 @@ by him this man is standing before you well.
 [11](# "ref")
 This Jesus is the stone <br>
 that was rejected by you, the builders, <br>
-which has become the cornerstone. <br>
+which has become the cornerstone.
+
 [12](# "ref")
 And there is salvation in no one else,<br>
 for there is no other name under heaven<br>
@@ -180,6 +183,7 @@ given among men by which we must be saved.”
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="outline" class="outline" -->
+## Acts 4:7-12
 1. Let the **Story** Be Known [(v10)](# "ref") <br>
   <!-- <span class="zh">都當知道</span> -->
 1. The **Stone** Rejected [(v11)](# "ref") <br>
@@ -291,7 +295,8 @@ let it be **known** to all of you ...
 
 that by the name of **Jesus Christ** of Nazareth, <br>
 whom you **crucified**, <br>
-whom God **raised** from the dead — <br>
+whom God **raised** from the dead — 
+
 by him this man is **standing** before you well.
 
 <!--
@@ -408,6 +413,7 @@ your holy servant Jesus.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
+## Acts 4:7-12
 1. Let the Story Be Known [(v10)](# "ref") <br>
   <!-- <span class="zh">都當知道</span> -->
 1. **The Stone Rejected** [(v11)](# "ref") <br>
@@ -525,7 +531,7 @@ will not be put to **shame**.
 </div>
 -->
 
-[1 Peter 2:6 (quoting Isaiah 28:16) (ESV) (p.1/2)](# "ref")
+[1 Peter 2:6 (cf Isaiah 28:16) (ESV) (p.1/2)](# "ref")
 [Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
@@ -556,7 +562,7 @@ as they were **destined** to do.
 </div>
 -->
 
-[1 Peter 2:7,8 (quoting Isaiah 8:14) (ESV) (p.2/2)](# "ref")
+[1 Peter 2:7,8 (cf Isaiah 8:14) (ESV) (p.2/2)](# "ref")
 [Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
@@ -567,7 +573,7 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is Jesus a rock of **stumbling** to me <br> or the **cornerstone**?
+# Is Jesus a <br> rock of **stumbling** to me or <br> the **cornerstone**?
 
 <!--
 # 耶穌是我的絆腳石<br>或房角石?
@@ -580,6 +586,7 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> class="outline" -->
+## Acts 4:7-12
 1. Let the Story Be Known [(v10)](# "ref") <br>
   <!-- <span class="zh">都當知道</span> -->
 1. The Stone Rejected [(v11)](# "ref") <br>
