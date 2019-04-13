@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> id="title" -->
-# Salvation in No Other
+# Salvation in <br> No Other
 ## Acts 4:7-12
 
 <!--
@@ -67,7 +67,7 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 + With the **Crippled** Man <!-- <span class="zh">生來是瘸腿的</span> -->
-  + [(3:1-11)](# "ref") *"no silver or gold ..."*
+  + [(3:1-11)](# "ref") "*no silver or gold ...*"
 + To the **Crowds** <!-- <span class="zh">對百姓</span> -->
   + [(3:12-26)](# "ref") *"repent and turn back ..."*
 + To the **Sanhedrin** <!-- <span class="zh">對公會</span> -->
