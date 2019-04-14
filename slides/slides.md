@@ -67,13 +67,13 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 ---
 <!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 + With the **Crippled** Man <!-- <span class="zh">生來是瘸腿的</span> -->
-  + [(3:1-11)](# "ref") "*no silver or gold ...*"
+  + [(3:1-11)](# "ref") "*no silver or gold*" ...
 + To the **Crowds** <!-- <span class="zh">對百姓</span> -->
-  + [(3:12-26)](# "ref") *"repent and turn back ..."*
+  + [(3:12-26)](# "ref") *"repent and turn back*" ...
 + To the **Sanhedrin** <!-- <span class="zh">對公會</span> -->
-  + [(4:1-22)](# "ref") *"salvation in no one else ..."*
+  + [(4:1-22)](# "ref") *"salvation in no one else*" ...
 + With the **Believers** <!-- <span class="zh">對信徒</span> -->
-  + [(4:23-31)](# "ref") *"grant [us] all boldness ..."*
+  + [(4:23-31)](# "ref") *"grant [us] all boldness*" ...
 
 [###](#/outline "secret")
 ["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
