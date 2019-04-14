@@ -539,8 +539,6 @@ will not be put to **shame**.
   + are **built** up as living **stones**
   + as spiritual **house**
 + but those who **disbelieve**:
-  + stone of **stumbling** (disobey)
-  + rock of **offense**
 
 ---
 <!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
@@ -608,7 +606,8 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is salvation in no one else,<br>
+And there is salvation in no one else,
+
 for there is **no other name** under heaven<br>
 given among men by which we must be saved.
 
@@ -643,7 +642,8 @@ I pray, **Amen**
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is salvation in no one else,<br>
+And there is salvation in no one else,
+
 for there is *no other name* under heaven<br>
 **given** among men by which we must be **saved**.
 
@@ -711,6 +711,13 @@ that your sins may be **blotted out**,
 [Acts 3:19-20 (ESV) (p.1/2)](# "ref")
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
+>>>
++ change **direction**
+  + what we **chase** after
+  + deem as **worthy**, successful
++ **turn** towards Christ
++ **hope**: clean slate, new heart
+
 ---
 <!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 that times of **refreshing** may come <br>
@@ -733,10 +740,10 @@ the **Christ** appointed for you, Jesus
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
-+ **repent**: turn, change direction
-  + what we **chase** after
-  + deem as **worthy**, successful
 + **refreshing**: make **new**
++ send **Christ**:
+  + **returning** soon to judge world
+  + **lives** in our hearts
 
 ---
 <!-- .slide: data-background="white" -->
