@@ -10,7 +10,11 @@
 
 ---
 <!-- .slide: data-background="white" -->
+# Is there **hope** <br> for our world?
+
+<!--
 # How can I have **boldness** to proclaim Jesus?
+-->
 
 <!--
 # <span class="zh">我怎麼大膽地 <br> 宣揚耶穌呢?</span>
@@ -746,7 +750,7 @@ the **Christ** appointed for you, Jesus
 
 ---
 <!-- .slide: data-background="white" -->
-# Is there **hope** <br> for our world?
+# What is the **hope** <br> for our world?
 
 <!--
 # 我們的世界有希望嗎？
