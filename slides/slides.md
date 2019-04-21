@@ -446,7 +446,7 @@ which has become the **cornerstone**.
 
 >>>
 + brought before **Sanhedrin**
-  + **temple** jurisdiction
+  + "lead together"
   + keepers of heritage, **community**
 + entrusted to **build** a way for
   + **laity** to **worship** God
@@ -511,8 +511,7 @@ it is **marvelous** in our eyes.
 + **marvelous**: surpassing, beyond us
   + "not what I would have done"
 + this **truth** does not change:
-  + that Christ is **Son of God**
-  + rightful **heir** + only **way**
+  + Christ is only **way** to be saved
 + **denying** it only **hurts** ourselves
 
 ---
