@@ -606,7 +606,7 @@ as they were **destined** to do.
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
-And there is salvation in no one else,
+And there is salvation in **no one else**,
 
 for there is **no other name** under heaven<br>
 given among men by which we must be saved.
@@ -624,6 +624,10 @@ given among men by which we must be saved.
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
++ **emphatic**: "it is not in another, not even one, the salvation"
+  + *(Καὶ οὐκ ἔστιν ἐν ἄλλῳ οὐδενὶ ἡ σωτηρία)*
++ **parallel**: "for neither is there a different name"
+  + *(οὐδὲ γὰρ ὄνομά ἐστιν ἕτερον)*
 + in a **Name**: not an action, religion, lifestyle
 + power of Jesus' name:
 
