@@ -69,7 +69,6 @@ and to the **end of the earth** [(ch12-28)](# "ref").
   + Peter+John heal **cripple** outside temple courts
 
 ---
-<!-- .slide: <%= bg("Raphael-Peter_John_heal_lame.jpg") %> -->
 + With the **Crippled** Man <!-- <span class="zh">生來是瘸腿的</span> -->
   + [(3:1-11)](# "ref") *no silver or gold* ...
 + To the **Crowds** <!-- <span class="zh">對百姓</span> -->
