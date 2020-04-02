@@ -709,18 +709,6 @@ that your sins may be **blotted out**,
 </div>
 -->
 
-[Acts 3:19-20 (ESV) (p.1/2)](# "ref")
-[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
-
->>>
-+ change **direction**
-  + what we **chase** after
-  + deem as **worthy**, successful
-+ **turn** towards Christ
-+ **hope**: clean slate, new heart
-
----
-<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 that times of **refreshing** may come <br>
 from the presence of the Lord,
 
@@ -737,10 +725,15 @@ the **Christ** appointed for you, Jesus
 </div>
 -->
 
-[Acts 3:20 (ESV) (p.2/2)](# "ref")
+[Acts 3:20 (ESV)](# "ref")
 [Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
++ change **direction**
+  + what we **chase** after
+  + deem as **worthy**, successful
++ **turn** towards Christ
++ **hope**: clean slate, new heart
 + **refreshing**: make **new**
 + send **Christ**:
   + **returning** soon to judge world
