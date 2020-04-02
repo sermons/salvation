@@ -79,7 +79,6 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 + With the **Believers** <!-- <span class="zh">對信徒</span> -->
   + [(4:23-31)](# "ref") *grant [us] all boldness* ...
 
-[###](#/outline "secret")
 ["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
 
 >>>
@@ -94,7 +93,7 @@ and to the **end of the earth** [(ch12-28)](# "ref").
   + bold **proclamation**
   + only way to be **saved**:
 
----
+******
 [7](# "ref")
 And when they had set them in the midst, <br>
 they inquired,
@@ -112,7 +111,7 @@ did you do this?”
 
 [Acts 4:7 (ESV) (p.1/4)](# "ref")
 
----
+******
 [8](# "ref")
 Then Peter, filled with the Holy Spirit, <br>
 said to them, “Rulers of the people and elders,
@@ -139,7 +138,7 @@ by what means this man has been healed,
 
 [Acts 4:8-9 (ESV) (p.2/4)](# "ref")
 
----
+******
 [10](# "ref")
 let it be known to all of you <br>
 and to all the people of Israel 
@@ -162,7 +161,7 @@ by him this man is standing before you well.
 
 [Acts 4:10 (ESV) (p.3/4)](# "ref")
 
----
+******
 [11](# "ref")
 This Jesus is the stone <br>
 that was rejected by you, the builders, <br>
@@ -353,6 +352,7 @@ they had been **with Jesus**.
 -->
 
 [Acts 4:13 (ESV)](# "ref")
+[Nikolas Bodarevsky, "Trial of the Apostle Paul", 1875](https://commons.wikimedia.org/wiki/File%3ANikolai_Bodarevsky_001.jpg "caption")
 
 >>>
 + **boldness**: free speech, unafraid
@@ -375,10 +375,6 @@ to **speak** your word with all **boldness**,
 </div>
 -->
 
-[Acts 4:29 (ESV) (p.1/2)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 while you stretch out your hand to **heal**,  <br>
 and **signs** and wonders are performed  <br>
 through the **name** of  <br>
@@ -392,7 +388,8 @@ your holy servant Jesus.
 </div>
 -->
 
-[Acts 4:30 (ESV) (p.2/2)](# "ref")
+[Acts 4:29 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
 + not just by **living** a holy life
@@ -447,6 +444,7 @@ which has become the **cornerstone**.
 -->
 
 [Acts 4:11 (ESV)](# "ref")
+[Edouard Moyse, "Le Grand Sanhedrin", 1868](# "caption")
 
 >>>
 + brought before **Sanhedrin**
