@@ -646,7 +646,7 @@ I pray, **Amen**
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 And there is salvation in no one else,
 
-for there is *no other name* under heaven<br>
+for there is no other name under heaven<br>
 **given** among men by which we must be **saved**.
 
 <!--
