@@ -78,8 +78,6 @@ and to the **end of the earth** [(ch12-28)](# "ref").
 + With the **Believers** <!-- <span class="zh">對信徒</span> -->
   + [(4:23-31)](# "ref") *grant [us] all boldness* ...
 
-["Apostles Peter and John Heal the Lame Man", <br> engraving after Raphael](https://wellcomecollection.org/works/sgrs33gy "caption")
-
 >>>
 + Focus today not on **miracle** itself
   + (read more in ch3)
