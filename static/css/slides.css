@@ -3,8 +3,8 @@
  *********************************************/
 
 /* Darken background images */
-.reveal .slide-background-content[background-image] {
-  opacity: 80%;
+.reveal .slide-background-content {
+  opacity: 60%;
 }
 
 /* Shade text if background image */
